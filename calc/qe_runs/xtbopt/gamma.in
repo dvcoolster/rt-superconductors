@@ -1,9 +1,0 @@
-Gamma-point phonon calculation for xtbopt
-&INPUTPH
-    tr2_ph = 1.0d-14,
-    prefix = 'xtbopt',
-    outdir = './tmp/',
-    alpha_mix(1) = 0.7,
-    fildyn = 'xtbopt.dyn',
-/
-0.0 0.0 0.0
