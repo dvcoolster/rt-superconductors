@@ -1,0 +1,97 @@
+{
+  "universal_potentials": {
+    "MgFe_cubic": {
+      "total_energy": 1177346.59862826,
+      "energy_per_atom": 588673.29931413,
+      "formation_energy_per_atom": 588676.14931413,
+      "stability": "Unstable",
+      "method": "universal_potentials"
+    },
+    "Mg2Fe": {
+      "total_energy": 1743842067.853871,
+      "energy_per_atom": 581280689.2846237,
+      "formation_energy_per_atom": 581280691.6846237,
+      "stability": "Unstable",
+      "method": "universal_potentials"
+    },
+    "Mg3Fe2": {
+      "total_energy": 14572026637.241215,
+      "energy_per_atom": 2914405327.448243,
+      "formation_energy_per_atom": 2914405330.028243,
+      "stability": "Unstable",
+      "method": "universal_potentials"
+    }
+  },
+  "electronic_analysis": {
+    "MgFe_cubic": {
+      "avg_valence_electrons": 5.0,
+      "electron_density": 0.15625000000000006,
+      "dos_estimate": 0.029009930210079877,
+      "debye_temperature": 435.0,
+      "tc_bcs_estimate": 0,
+      "superconductor_likelihood": "Low",
+      "method": "electronic_analysis"
+    },
+    "Mg2Fe": {
+      "avg_valence_electrons": 4.0,
+      "electron_density": 0.05221023320570833,
+      "dos_estimate": 0.013969164192413855,
+      "debye_temperature": 423.33333333333326,
+      "tc_bcs_estimate": 0,
+      "superconductor_likelihood": "Low",
+      "method": "electronic_analysis"
+    },
+    "Mg3Fe2": {
+      "avg_valence_electrons": 4.4,
+      "electron_density": 0.07638888888888895,
+      "dos_estimate": 0.018003355697081565,
+      "debye_temperature": 428.0,
+      "tc_bcs_estimate": 0,
+      "superconductor_likelihood": "Low",
+      "method": "electronic_analysis"
+    }
+  },
+  "structural_analysis": {
+    "MgFe_cubic": {
+      "error": "'Atoms' object has no attribute 'get_density'"
+    },
+    "Mg2Fe": {
+      "error": "'Atoms' object has no attribute 'get_density'"
+    },
+    "Mg3Fe2": {
+      "error": "'Atoms' object has no attribute 'get_density'"
+    }
+  },
+  "rbt_comprehensive": {
+    "MgFe_cubic": {
+      "tau_valence": 0.0,
+      "rbt_score": 0.7,
+      "tc_estimate": 44.09999999999999,
+      "hc1_estimate": 4.409999999999999,
+      "hc2_estimate": 440.9999999999999,
+      "superconductor_class": "Type II",
+      "rbt_confidence": "High",
+      "method": "rbt_comprehensive"
+    },
+    "Mg2Fe": {
+      "tau_valence": 0.0,
+      "rbt_score": 0.7,
+      "tc_estimate": 44.09999999999999,
+      "hc1_estimate": 4.409999999999999,
+      "hc2_estimate": 440.9999999999999,
+      "superconductor_class": "Type II",
+      "rbt_confidence": "High",
+      "method": "rbt_comprehensive"
+    },
+    "Mg3Fe2": {
+      "tau_valence": 0.0,
+      "rbt_score": 0.7,
+      "tc_estimate": 44.09999999999999,
+      "hc1_estimate": 4.409999999999999,
+      "hc2_estimate": 440.9999999999999,
+      "superconductor_class": "Type II",
+      "rbt_confidence": "High",
+      "method": "rbt_comprehensive"
+    }
+  }
+}

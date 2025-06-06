@@ -1,0 +1,250 @@
+{
+  "corrected_potentials": {
+    "MgFe_cubic": {
+      "total_energy": 147755.82546721853,
+      "energy_per_atom": 73877.91273360926,
+      "formation_energy": 73882.91773360927,
+      "bulk_modulus_estimate": 19.531250000000014,
+      "stability": "Unstable",
+      "method": "corrected_potentials"
+    },
+    "Mg2Fe_layered": {
+      "total_energy": 349244.19077506114,
+      "energy_per_atom": 116414.73025835371,
+      "formation_energy": 116418.5702583537,
+      "bulk_modulus_estimate": 3.4073855642430595,
+      "stability": "Unstable",
+      "method": "corrected_potentials"
+    },
+    "MgFe2_ordered": {
+      "total_energy": 4008556.781447215,
+      "energy_per_atom": 1336185.5938157383,
+      "formation_energy": 1336191.7638157383,
+      "bulk_modulus_estimate": 18.00000000000001,
+      "stability": "Unstable",
+      "method": "corrected_potentials"
+    },
+    "Mg3Fe_intermetallic": {
+      "total_energy": 18332133.19357764,
+      "energy_per_atom": 4583033.29839441,
+      "formation_energy": 4583036.55589441,
+      "bulk_modulus_estimate": 6.858710562414263,
+      "stability": "Unstable",
+      "method": "corrected_potentials"
+    }
+  },
+  "band_structure": {
+    "MgFe_cubic": {
+      "avg_s_band": -7.0,
+      "avg_p_band": -1.5,
+      "avg_d_band": -2.75,
+      "dos_fermi": 0.013020833333333337,
+      "conductivity_estimate": 13.020833333333337,
+      "electron_phonon_coupling": 0.003906250000000001,
+      "tc_mcmillan": 0,
+      "metallic_character": "Semiconductor",
+      "method": "band_structure_estimate"
+    },
+    "Mg2Fe_layered": {
+      "avg_s_band": -6.333333333333333,
+      "avg_p_band": -1.3333333333333333,
+      "avg_d_band": -1.8333333333333333,
+      "dos_fermi": 0.00435085276714236,
+      "conductivity_estimate": 4.35085276714236,
+      "electron_phonon_coupling": 0.0013052558301427078,
+      "tc_mcmillan": 0,
+      "metallic_character": "Semiconductor",
+      "method": "band_structure_estimate"
+    },
+    "MgFe2_ordered": {
+      "avg_s_band": -7.666666666666666,
+      "avg_p_band": -1.6666666666666665,
+      "avg_d_band": -3.6666666666666665,
+      "dos_fermi": 0.015000000000000006,
+      "conductivity_estimate": 15.000000000000007,
+      "electron_phonon_coupling": 0.004500000000000001,
+      "tc_mcmillan": 0,
+      "metallic_character": "Semiconductor",
+      "method": "band_structure_estimate"
+    },
+    "Mg3Fe_intermetallic": {
+      "avg_s_band": -6.0,
+      "avg_p_band": -1.25,
+      "avg_d_band": -1.375,
+      "dos_fermi": 0.0054012345679012325,
+      "conductivity_estimate": 5.401234567901232,
+      "electron_phonon_coupling": 0.0016203703703703697,
+      "tc_mcmillan": 0,
+      "metallic_character": "Semiconductor",
+      "method": "band_structure_estimate"
+    }
+  },
+  "fixed_structural": {
+    "MgFe_cubic": {
+      "volume_per_atom": 31.99999999999999,
+      "density": 2.0795668906250007,
+      "avg_coordination": 1.0,
+      "avg_bond_length": 0.8660254037844386,
+      "packing_efficiency": 0.332917469656638,
+      "elastic_modulus": 1.3333333333333336e-07,
+      "structural_stability": "Medium",
+      "method": "fixed_structural"
+    },
+    "Mg2Fe_layered": {
+      "volume_per_atom": 76.61333333333333,
+      "density": 0.7546628337104073,
+      "avg_coordination": 2.0,
+      "avg_bond_length": 0.7554864855008443,
+      "packing_efficiency": 0.14368833429002845,
+      "elastic_modulus": 3.504100841838264e-07,
+      "structural_stability": "Low",
+      "method": "fixed_structural"
+    },
+    "MgFe2_ordered": {
+      "volume_per_atom": 33.33333333333332,
+      "density": 2.258251373000001,
+      "avg_coordination": 2.0,
+      "avg_bond_length": 0.7071067811865476,
+      "packing_efficiency": 0.30917984100303947,
+      "elastic_modulus": 3.9999999999999993e-07,
+      "structural_stability": "Medium",
+      "method": "fixed_structural"
+    },
+    "Mg3Fe_intermetallic": {
+      "volume_per_atom": 54.000000000000014,
+      "density": 0.989866344444444,
+      "avg_coordination": 3.0,
+      "avg_bond_length": 0.7071067811865476,
+      "packing_efficiency": 0.2072019435967236,
+      "elastic_modulus": 5.999999999999999e-07,
+      "structural_stability": "Low",
+      "method": "fixed_structural"
+    }
+  },
+  "simple_ml": {
+    "MgFe_cubic": {
+      "ml_stability_score": 2.04025,
+      "stability_probability": 0.8849587220995864,
+      "formation_energy_ml": -0.7699174441991727,
+      "tc_estimate_ml": 53.09752332597518,
+      "ml_prediction": "Promising",
+      "method": "simple_ml"
+    },
+    "Mg2Fe_layered": {
+      "ml_stability_score": 1.7159438449936188,
+      "stability_probability": 0.8476056399009549,
+      "formation_energy_ml": -0.6952112798019099,
+      "tc_estimate_ml": 50.856338394057296,
+      "ml_prediction": "Promising",
+      "method": "simple_ml"
+    },
+    "MgFe2_ordered": {
+      "ml_stability_score": 2.360666666666667,
+      "stability_probability": 0.9137783449827521,
+      "formation_energy_ml": -0.8275566899655042,
+      "tc_estimate_ml": 54.826700698965126,
+      "ml_prediction": "Promising",
+      "method": "simple_ml"
+    },
+    "Mg3Fe_intermetallic": {
+      "ml_stability_score": 1.5567037037037037,
+      "stability_probability": 0.8258798469758459,
+      "formation_energy_ml": -0.6517596939516919,
+      "tc_estimate_ml": 49.552790818550754,
+      "ml_prediction": "Promising",
+      "method": "simple_ml"
+    }
+  },
+  "thermodynamic": {
+    "MgFe_cubic": {
+      "entropy_mixing": 5.762825659175385,
+      "enthalpy_mixing": 2500.0,
+      "gibbs_mixing_300K": 2498.271152302247,
+      "phase_stability": "Unstable",
+      "critical_temperature": 433814.96298080456,
+      "heat_capacity": 25.0,
+      "thermodynamic_favorability": "False",
+      "method": "thermodynamic"
+    },
+    "Mg2Fe_layered": {
+      "entropy_mixing": 5.2919787952030735,
+      "enthalpy_mixing": 2222.2222222222217,
+      "gibbs_mixing_300K": 2220.6346285836607,
+      "phase_stability": "Unstable",
+      "critical_temperature": 419922.7374524932,
+      "heat_capacity": 24.966666666666665,
+      "thermodynamic_favorability": "False",
+      "method": "thermodynamic"
+    },
+    "MgFe2_ordered": {
+      "entropy_mixing": 5.2919787952030735,
+      "enthalpy_mixing": 2222.2222222222217,
+      "gibbs_mixing_300K": 2220.6346285836607,
+      "phase_stability": "Unstable",
+      "critical_temperature": 419922.7374524932,
+      "heat_capacity": 25.03333333333333,
+      "thermodynamic_favorability": "False",
+      "method": "thermodynamic"
+    },
+    "Mg3Fe_intermetallic": {
+      "entropy_mixing": 4.675254392360772,
+      "enthalpy_mixing": 1875.0,
+      "gibbs_mixing_300K": 1873.5974236822917,
+      "phase_stability": "Unstable",
+      "critical_temperature": 401047.6955144291,
+      "heat_capacity": 24.949999999999996,
+      "thermodynamic_favorability": "False",
+      "method": "thermodynamic"
+    }
+  },
+  "rbt_advanced": {
+    "MgFe_cubic": {
+      "tau_valence": 0.0,
+      "rbt_score": 0.7,
+      "tc_basic": 44.09999999999999,
+      "discrete_gravity": 286.52588988026,
+      "coherence_length": 3.1748021039363983,
+      "phase_locking": 1.0,
+      "rbt_enhancement": 0.7,
+      "tc_enhanced": 74.96999999999997,
+      "rbt_confidence": "Excellent",
+      "method": "rbt_advanced"
+    },
+    "Mg2Fe_layered": {
+      "tau_valence": 0.0,
+      "rbt_score": 0.7,
+      "tc_basic": 44.09999999999999,
+      "discrete_gravity": 192.60035398628747,
+      "coherence_length": 4.247187681921678,
+      "phase_locking": 0.7165313105737893,
+      "rbt_enhancement": 0.5015719174016524,
+      "tc_enhanced": 66.21932155741285,
+      "rbt_confidence": "Excellent",
+      "method": "rbt_advanced"
+    },
+    "MgFe2_ordered": {
+      "tau_valence": 0.0,
+      "rbt_score": 0.7,
+      "tc_basic": 44.09999999999999,
+      "discrete_gravity": 315.5564199711333,
+      "coherence_length": 3.2182979486854317,
+      "phase_locking": 0.7165313105737893,
+      "rbt_enhancement": 0.5015719174016524,
+      "tc_enhanced": 66.21932155741285,
+      "rbt_confidence": "Excellent",
+      "method": "rbt_advanced"
+    },
+    "Mg3Fe_intermetallic": {
+      "tau_valence": 0.0,
+      "rbt_score": 0.7,
+      "tc_basic": 44.09999999999999,
+      "discrete_gravity": 151.34801611862164,
+      "coherence_length": 3.7797631496846193,
+      "phase_locking": 0.6065306597126334,
+      "rbt_enhancement": 0.42457146179884336,
+      "tc_enhanced": 62.82360146532898,
+      "rbt_confidence": "Excellent",
+      "method": "rbt_advanced"
+    }
+  }
+}

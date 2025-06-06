@@ -1,0 +1,62 @@
+{
+  "MgFe_cubic": {
+    "composition": {
+      "mg_frac": 0.5,
+      "fe_frac": 0.5
+    },
+    "omega_log_cm": 340.0,
+    "omega_log_k": 489.59999999999997,
+    "n_ef": 3.75,
+    "lambda_ep": 0.85,
+    "mu_star": 0.13,
+    "tc_mcmillan": 21.285729824699974,
+    "tc_allen_dynes": 25.059204911861862,
+    "coupling_regime": "Strong coupling",
+    "rbt_enhancement": 1.5
+  },
+  "Mg2Fe_layered": {
+    "composition": {
+      "mg_frac": 0.67,
+      "fe_frac": 0.33
+    },
+    "omega_log_cm": 327.76000000000005,
+    "omega_log_k": 471.97440000000006,
+    "n_ef": 3.1550000000000002,
+    "lambda_ep": 0.85,
+    "mu_star": 0.13,
+    "tc_mcmillan": 20.519443551010777,
+    "tc_allen_dynes": 24.15707353503484,
+    "coupling_regime": "Strong coupling",
+    "rbt_enhancement": 1.5
+  },
+  "MgFe2_ordered": {
+    "composition": {
+      "mg_frac": 0.33,
+      "fe_frac": 0.67
+    },
+    "omega_log_cm": 352.24000000000007,
+    "omega_log_k": 507.2256000000001,
+    "n_ef": 4.345000000000001,
+    "lambda_ep": 0.85,
+    "mu_star": 0.13,
+    "tc_mcmillan": 22.052016098389178,
+    "tc_allen_dynes": 25.961336288688894,
+    "coupling_regime": "Strong coupling",
+    "rbt_enhancement": 1.5
+  },
+  "Mg3Fe_intermetallic": {
+    "composition": {
+      "mg_frac": 0.75,
+      "fe_frac": 0.25
+    },
+    "omega_log_cm": 322.0,
+    "omega_log_k": 463.68,
+    "n_ef": 2.875,
+    "lambda_ep": 0.85,
+    "mu_star": 0.13,
+    "tc_mcmillan": 20.158838245745272,
+    "tc_allen_dynes": 23.732541122410353,
+    "coupling_regime": "Strong coupling",
+    "rbt_enhancement": 1.5
+  }
+}

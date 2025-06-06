@@ -1,0 +1,26 @@
+{
+  "MgFe_cubic": {
+    "avg_tc_prediction": 22.049999999999994,
+    "tc_uncertainty": 22.049999999999994,
+    "stability_consensus": 0.0,
+    "superconductor_consensus": 0.5,
+    "overall_confidence": 0.25,
+    "recommendation": "LOW PRIORITY - Research interest"
+  },
+  "Mg2Fe": {
+    "avg_tc_prediction": 22.049999999999994,
+    "tc_uncertainty": 22.049999999999994,
+    "stability_consensus": 0.0,
+    "superconductor_consensus": 0.5,
+    "overall_confidence": 0.25,
+    "recommendation": "LOW PRIORITY - Research interest"
+  },
+  "Mg3Fe2": {
+    "avg_tc_prediction": 22.049999999999994,
+    "tc_uncertainty": 22.049999999999994,
+    "stability_consensus": 0.0,
+    "superconductor_consensus": 0.5,
+    "overall_confidence": 0.25,
+    "recommendation": "LOW PRIORITY - Research interest"
+  }
+}

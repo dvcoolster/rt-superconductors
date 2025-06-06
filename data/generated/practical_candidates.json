@@ -1,0 +1,4502 @@
+[
+  {
+    "formula": "Ca1 Mg1",
+    "reduced_formula": "CaMg",
+    "tau_valence": 0.0,
+    "n_elements": 2,
+    "n_atoms": 2,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca2 Mg1",
+    "reduced_formula": "Ca2Mg",
+    "tau_valence": 0.0,
+    "n_elements": 2,
+    "n_atoms": 3,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca3 Mg1",
+    "reduced_formula": "Ca3Mg",
+    "tau_valence": 0.0,
+    "n_elements": 2,
+    "n_atoms": 4,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca4 Mg1",
+    "reduced_formula": "Ca4Mg",
+    "tau_valence": 0.0,
+    "n_elements": 2,
+    "n_atoms": 5,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca5 Mg1",
+    "reduced_formula": "Ca5Mg",
+    "tau_valence": 0.0,
+    "n_elements": 2,
+    "n_atoms": 6,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca1 Mg2",
+    "reduced_formula": "CaMg2",
+    "tau_valence": 0.0,
+    "n_elements": 2,
+    "n_atoms": 3,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca3 Mg2",
+    "reduced_formula": "Ca3Mg2",
+    "tau_valence": 0.0,
+    "n_elements": 2,
+    "n_atoms": 5,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca5 Mg2",
+    "reduced_formula": "Ca5Mg2",
+    "tau_valence": 0.0,
+    "n_elements": 2,
+    "n_atoms": 7,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca1 Mg3",
+    "reduced_formula": "CaMg3",
+    "tau_valence": 0.0,
+    "n_elements": 2,
+    "n_atoms": 4,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca2 Mg3",
+    "reduced_formula": "Ca2Mg3",
+    "tau_valence": 0.0,
+    "n_elements": 2,
+    "n_atoms": 5,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca4 Mg3",
+    "reduced_formula": "Ca4Mg3",
+    "tau_valence": 0.0,
+    "n_elements": 2,
+    "n_atoms": 7,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca5 Mg3",
+    "reduced_formula": "Ca5Mg3",
+    "tau_valence": 0.0,
+    "n_elements": 2,
+    "n_atoms": 8,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca1 Mg4",
+    "reduced_formula": "CaMg4",
+    "tau_valence": 0.0,
+    "n_elements": 2,
+    "n_atoms": 5,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca3 Mg4",
+    "reduced_formula": "Ca3Mg4",
+    "tau_valence": 0.0,
+    "n_elements": 2,
+    "n_atoms": 7,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca1 Mg5",
+    "reduced_formula": "CaMg5",
+    "tau_valence": 0.0,
+    "n_elements": 2,
+    "n_atoms": 6,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca2 Mg5",
+    "reduced_formula": "Ca2Mg5",
+    "tau_valence": 0.0,
+    "n_elements": 2,
+    "n_atoms": 7,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca3 Mg5",
+    "reduced_formula": "Ca3Mg5",
+    "tau_valence": 0.0,
+    "n_elements": 2,
+    "n_atoms": 8,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Mg1 Fe1",
+    "reduced_formula": "MgFe",
+    "tau_valence": 0.0,
+    "n_elements": 2,
+    "n_atoms": 2,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Mg1 Fe2",
+    "reduced_formula": "MgFe2",
+    "tau_valence": 0.0,
+    "n_elements": 2,
+    "n_atoms": 3,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Mg1 Fe3",
+    "reduced_formula": "MgFe3",
+    "tau_valence": 0.0,
+    "n_elements": 2,
+    "n_atoms": 4,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Mg1 Fe4",
+    "reduced_formula": "MgFe4",
+    "tau_valence": 0.0,
+    "n_elements": 2,
+    "n_atoms": 5,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Mg1 Fe5",
+    "reduced_formula": "MgFe5",
+    "tau_valence": 0.0,
+    "n_elements": 2,
+    "n_atoms": 6,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Mg2 Fe1",
+    "reduced_formula": "Mg2Fe",
+    "tau_valence": 0.0,
+    "n_elements": 2,
+    "n_atoms": 3,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Mg2 Fe3",
+    "reduced_formula": "Mg2Fe3",
+    "tau_valence": 0.0,
+    "n_elements": 2,
+    "n_atoms": 5,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Mg2 Fe5",
+    "reduced_formula": "Mg2Fe5",
+    "tau_valence": 0.0,
+    "n_elements": 2,
+    "n_atoms": 7,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Mg3 Fe1",
+    "reduced_formula": "Mg3Fe",
+    "tau_valence": 0.0,
+    "n_elements": 2,
+    "n_atoms": 4,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Mg3 Fe2",
+    "reduced_formula": "Mg3Fe2",
+    "tau_valence": 0.0,
+    "n_elements": 2,
+    "n_atoms": 5,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Mg3 Fe4",
+    "reduced_formula": "Mg3Fe4",
+    "tau_valence": 0.0,
+    "n_elements": 2,
+    "n_atoms": 7,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Mg3 Fe5",
+    "reduced_formula": "Mg3Fe5",
+    "tau_valence": 0.0,
+    "n_elements": 2,
+    "n_atoms": 8,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Mg4 Fe1",
+    "reduced_formula": "Mg4Fe",
+    "tau_valence": 0.0,
+    "n_elements": 2,
+    "n_atoms": 5,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Mg4 Fe3",
+    "reduced_formula": "Mg4Fe3",
+    "tau_valence": 0.0,
+    "n_elements": 2,
+    "n_atoms": 7,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Mg5 Fe1",
+    "reduced_formula": "Mg5Fe",
+    "tau_valence": 0.0,
+    "n_elements": 2,
+    "n_atoms": 6,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Mg5 Fe2",
+    "reduced_formula": "Mg5Fe2",
+    "tau_valence": 0.0,
+    "n_elements": 2,
+    "n_atoms": 7,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Mg5 Fe3",
+    "reduced_formula": "Mg5Fe3",
+    "tau_valence": 0.0,
+    "n_elements": 2,
+    "n_atoms": 8,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca1 Fe1",
+    "reduced_formula": "CaFe",
+    "tau_valence": 0.0,
+    "n_elements": 2,
+    "n_atoms": 2,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca1 Fe2",
+    "reduced_formula": "CaFe2",
+    "tau_valence": 0.0,
+    "n_elements": 2,
+    "n_atoms": 3,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca1 Fe3",
+    "reduced_formula": "CaFe3",
+    "tau_valence": 0.0,
+    "n_elements": 2,
+    "n_atoms": 4,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca1 Fe4",
+    "reduced_formula": "CaFe4",
+    "tau_valence": 0.0,
+    "n_elements": 2,
+    "n_atoms": 5,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca1 Fe5",
+    "reduced_formula": "CaFe5",
+    "tau_valence": 0.0,
+    "n_elements": 2,
+    "n_atoms": 6,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca2 Fe1",
+    "reduced_formula": "Ca2Fe",
+    "tau_valence": 0.0,
+    "n_elements": 2,
+    "n_atoms": 3,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca2 Fe3",
+    "reduced_formula": "Ca2Fe3",
+    "tau_valence": 0.0,
+    "n_elements": 2,
+    "n_atoms": 5,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca2 Fe5",
+    "reduced_formula": "Ca2Fe5",
+    "tau_valence": 0.0,
+    "n_elements": 2,
+    "n_atoms": 7,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca3 Fe1",
+    "reduced_formula": "Ca3Fe",
+    "tau_valence": 0.0,
+    "n_elements": 2,
+    "n_atoms": 4,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca3 Fe2",
+    "reduced_formula": "Ca3Fe2",
+    "tau_valence": 0.0,
+    "n_elements": 2,
+    "n_atoms": 5,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca3 Fe4",
+    "reduced_formula": "Ca3Fe4",
+    "tau_valence": 0.0,
+    "n_elements": 2,
+    "n_atoms": 7,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca3 Fe5",
+    "reduced_formula": "Ca3Fe5",
+    "tau_valence": 0.0,
+    "n_elements": 2,
+    "n_atoms": 8,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca4 Fe1",
+    "reduced_formula": "Ca4Fe",
+    "tau_valence": 0.0,
+    "n_elements": 2,
+    "n_atoms": 5,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca4 Fe3",
+    "reduced_formula": "Ca4Fe3",
+    "tau_valence": 0.0,
+    "n_elements": 2,
+    "n_atoms": 7,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca5 Fe1",
+    "reduced_formula": "Ca5Fe",
+    "tau_valence": 0.0,
+    "n_elements": 2,
+    "n_atoms": 6,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca5 Fe2",
+    "reduced_formula": "Ca5Fe2",
+    "tau_valence": 0.0,
+    "n_elements": 2,
+    "n_atoms": 7,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca5 Fe3",
+    "reduced_formula": "Ca5Fe3",
+    "tau_valence": 0.0,
+    "n_elements": 2,
+    "n_atoms": 8,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca1 Mg1 Fe1",
+    "reduced_formula": "CaMgFe",
+    "tau_valence": 0.0,
+    "n_elements": 3,
+    "n_atoms": 3,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca1 Mg1 Fe2",
+    "reduced_formula": "CaMgFe2",
+    "tau_valence": 0.0,
+    "n_elements": 3,
+    "n_atoms": 4,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca1 Mg1 Fe3",
+    "reduced_formula": "CaMgFe3",
+    "tau_valence": 0.0,
+    "n_elements": 3,
+    "n_atoms": 5,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca2 Mg1 Fe1",
+    "reduced_formula": "Ca2MgFe",
+    "tau_valence": 0.0,
+    "n_elements": 3,
+    "n_atoms": 4,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca2 Mg1 Fe2",
+    "reduced_formula": "Ca2MgFe2",
+    "tau_valence": 0.0,
+    "n_elements": 3,
+    "n_atoms": 5,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca2 Mg1 Fe3",
+    "reduced_formula": "Ca2MgFe3",
+    "tau_valence": 0.0,
+    "n_elements": 3,
+    "n_atoms": 6,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca3 Mg1 Fe1",
+    "reduced_formula": "Ca3MgFe",
+    "tau_valence": 0.0,
+    "n_elements": 3,
+    "n_atoms": 5,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca3 Mg1 Fe2",
+    "reduced_formula": "Ca3MgFe2",
+    "tau_valence": 0.0,
+    "n_elements": 3,
+    "n_atoms": 6,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca3 Mg1 Fe3",
+    "reduced_formula": "Ca3MgFe3",
+    "tau_valence": 0.0,
+    "n_elements": 3,
+    "n_atoms": 7,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca1 Mg2 Fe1",
+    "reduced_formula": "CaMg2Fe",
+    "tau_valence": 0.0,
+    "n_elements": 3,
+    "n_atoms": 4,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca1 Mg2 Fe2",
+    "reduced_formula": "Ca(MgFe)2",
+    "tau_valence": 0.0,
+    "n_elements": 3,
+    "n_atoms": 5,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca1 Mg2 Fe3",
+    "reduced_formula": "CaMg2Fe3",
+    "tau_valence": 0.0,
+    "n_elements": 3,
+    "n_atoms": 6,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca2 Mg2 Fe1",
+    "reduced_formula": "Ca2Mg2Fe",
+    "tau_valence": 0.0,
+    "n_elements": 3,
+    "n_atoms": 5,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca2 Mg2 Fe3",
+    "reduced_formula": "Ca2Mg2Fe3",
+    "tau_valence": 0.0,
+    "n_elements": 3,
+    "n_atoms": 7,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca3 Mg2 Fe1",
+    "reduced_formula": "Ca3Mg2Fe",
+    "tau_valence": 0.0,
+    "n_elements": 3,
+    "n_atoms": 6,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca3 Mg2 Fe2",
+    "reduced_formula": "Ca3(MgFe)2",
+    "tau_valence": 0.0,
+    "n_elements": 3,
+    "n_atoms": 7,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca3 Mg2 Fe3",
+    "reduced_formula": "Ca3Mg2Fe3",
+    "tau_valence": 0.0,
+    "n_elements": 3,
+    "n_atoms": 8,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca1 Mg3 Fe1",
+    "reduced_formula": "CaMg3Fe",
+    "tau_valence": 0.0,
+    "n_elements": 3,
+    "n_atoms": 5,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca1 Mg3 Fe2",
+    "reduced_formula": "CaMg3Fe2",
+    "tau_valence": 0.0,
+    "n_elements": 3,
+    "n_atoms": 6,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca1 Mg3 Fe3",
+    "reduced_formula": "Ca(MgFe)3",
+    "tau_valence": 0.0,
+    "n_elements": 3,
+    "n_atoms": 7,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca2 Mg3 Fe1",
+    "reduced_formula": "Ca2Mg3Fe",
+    "tau_valence": 0.0,
+    "n_elements": 3,
+    "n_atoms": 6,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca2 Mg3 Fe2",
+    "reduced_formula": "Ca2Mg3Fe2",
+    "tau_valence": 0.0,
+    "n_elements": 3,
+    "n_atoms": 7,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca2 Mg3 Fe3",
+    "reduced_formula": "Ca2(MgFe)3",
+    "tau_valence": 0.0,
+    "n_elements": 3,
+    "n_atoms": 8,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca3 Mg3 Fe1",
+    "reduced_formula": "Ca3Mg3Fe",
+    "tau_valence": 0.0,
+    "n_elements": 3,
+    "n_atoms": 7,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca3 Mg3 Fe2",
+    "reduced_formula": "Ca3Mg3Fe2",
+    "tau_valence": 0.0,
+    "n_elements": 3,
+    "n_atoms": 8,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li1 Ca3 Mg1 Fe3",
+    "reduced_formula": "LiCa3MgFe3",
+    "tau_valence": 0.125,
+    "n_elements": 4,
+    "n_atoms": 8,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li1 Ca2 Mg2 Fe3",
+    "reduced_formula": "LiCa2Mg2Fe3",
+    "tau_valence": 0.125,
+    "n_elements": 4,
+    "n_atoms": 8,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li1 Ca3 Mg2 Fe2",
+    "reduced_formula": "LiCa3(MgFe)2",
+    "tau_valence": 0.125,
+    "n_elements": 4,
+    "n_atoms": 8,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li1 Ca1 Mg3 Fe3",
+    "reduced_formula": "LiCa(MgFe)3",
+    "tau_valence": 0.125,
+    "n_elements": 4,
+    "n_atoms": 8,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li1 Ca2 Mg3 Fe2",
+    "reduced_formula": "LiCa2Mg3Fe2",
+    "tau_valence": 0.125,
+    "n_elements": 4,
+    "n_atoms": 8,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li1 Ca3 Mg3 Fe1",
+    "reduced_formula": "LiCa3Mg3Fe",
+    "tau_valence": 0.125,
+    "n_elements": 4,
+    "n_atoms": 8,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca3 Mg1 Al1 Fe3",
+    "reduced_formula": "Ca3MgAlFe3",
+    "tau_valence": 0.125,
+    "n_elements": 4,
+    "n_atoms": 8,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca2 Mg2 Al1 Fe3",
+    "reduced_formula": "Ca2Mg2AlFe3",
+    "tau_valence": 0.125,
+    "n_elements": 4,
+    "n_atoms": 8,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca3 Mg2 Al1 Fe2",
+    "reduced_formula": "Ca3Mg2AlFe2",
+    "tau_valence": 0.125,
+    "n_elements": 4,
+    "n_atoms": 8,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca1 Mg3 Al1 Fe3",
+    "reduced_formula": "CaMg3AlFe3",
+    "tau_valence": 0.125,
+    "n_elements": 4,
+    "n_atoms": 8,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca2 Mg3 Al1 Fe2",
+    "reduced_formula": "Ca2Mg3AlFe2",
+    "tau_valence": 0.125,
+    "n_elements": 4,
+    "n_atoms": 8,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca3 Mg3 Al1 Fe1",
+    "reduced_formula": "Ca3Mg3AlFe",
+    "tau_valence": 0.125,
+    "n_elements": 4,
+    "n_atoms": 8,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca3 Mg1 Fe3 B1",
+    "reduced_formula": "Ca3MgFe3B",
+    "tau_valence": 0.125,
+    "n_elements": 4,
+    "n_atoms": 8,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca2 Mg2 Fe3 B1",
+    "reduced_formula": "Ca2Mg2Fe3B",
+    "tau_valence": 0.125,
+    "n_elements": 4,
+    "n_atoms": 8,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca3 Mg2 Fe2 B1",
+    "reduced_formula": "Ca3Mg2Fe2B",
+    "tau_valence": 0.125,
+    "n_elements": 4,
+    "n_atoms": 8,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca1 Mg3 Fe3 B1",
+    "reduced_formula": "CaMg3Fe3B",
+    "tau_valence": 0.125,
+    "n_elements": 4,
+    "n_atoms": 8,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca2 Mg3 Fe2 B1",
+    "reduced_formula": "Ca2Mg3Fe2B",
+    "tau_valence": 0.125,
+    "n_elements": 4,
+    "n_atoms": 8,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca3 Mg3 Fe1 B1",
+    "reduced_formula": "Ca3Mg3FeB",
+    "tau_valence": 0.125,
+    "n_elements": 4,
+    "n_atoms": 8,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li1 Ca3 Mg3",
+    "reduced_formula": "Li(CaMg)3",
+    "tau_valence": 0.14285714285714285,
+    "n_elements": 3,
+    "n_atoms": 7,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li1 Mg3 Fe3",
+    "reduced_formula": "Li(MgFe)3",
+    "tau_valence": 0.14285714285714285,
+    "n_elements": 3,
+    "n_atoms": 7,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li1 Ca3 Fe3",
+    "reduced_formula": "Li(CaFe)3",
+    "tau_valence": 0.14285714285714285,
+    "n_elements": 3,
+    "n_atoms": 7,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca3 Mg3 Al1",
+    "reduced_formula": "Ca3Mg3Al",
+    "tau_valence": 0.14285714285714285,
+    "n_elements": 3,
+    "n_atoms": 7,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Mg3 Al1 Fe3",
+    "reduced_formula": "Mg3AlFe3",
+    "tau_valence": 0.14285714285714285,
+    "n_elements": 3,
+    "n_atoms": 7,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca3 Mg3 B1",
+    "reduced_formula": "Ca3Mg3B",
+    "tau_valence": 0.14285714285714285,
+    "n_elements": 3,
+    "n_atoms": 7,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Mg3 Fe3 B1",
+    "reduced_formula": "Mg3Fe3B",
+    "tau_valence": 0.14285714285714285,
+    "n_elements": 3,
+    "n_atoms": 7,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca3 Al1 Fe3",
+    "reduced_formula": "Ca3AlFe3",
+    "tau_valence": 0.14285714285714285,
+    "n_elements": 3,
+    "n_atoms": 7,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca3 Fe3 B1",
+    "reduced_formula": "Ca3Fe3B",
+    "tau_valence": 0.14285714285714285,
+    "n_elements": 3,
+    "n_atoms": 7,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li1 Ca2 Mg1 Fe3",
+    "reduced_formula": "LiCa2MgFe3",
+    "tau_valence": 0.14285714285714285,
+    "n_elements": 4,
+    "n_atoms": 7,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li1 Ca3 Mg1 Fe2",
+    "reduced_formula": "LiCa3MgFe2",
+    "tau_valence": 0.14285714285714285,
+    "n_elements": 4,
+    "n_atoms": 7,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li1 Ca1 Mg2 Fe3",
+    "reduced_formula": "LiCaMg2Fe3",
+    "tau_valence": 0.14285714285714285,
+    "n_elements": 4,
+    "n_atoms": 7,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li1 Ca2 Mg2 Fe2",
+    "reduced_formula": "LiCa2(MgFe)2",
+    "tau_valence": 0.14285714285714285,
+    "n_elements": 4,
+    "n_atoms": 7,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li1 Ca3 Mg2 Fe1",
+    "reduced_formula": "LiCa3Mg2Fe",
+    "tau_valence": 0.14285714285714285,
+    "n_elements": 4,
+    "n_atoms": 7,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li1 Ca1 Mg3 Fe2",
+    "reduced_formula": "LiCaMg3Fe2",
+    "tau_valence": 0.14285714285714285,
+    "n_elements": 4,
+    "n_atoms": 7,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li1 Ca2 Mg3 Fe1",
+    "reduced_formula": "LiCa2Mg3Fe",
+    "tau_valence": 0.14285714285714285,
+    "n_elements": 4,
+    "n_atoms": 7,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca2 Mg1 Al1 Fe3",
+    "reduced_formula": "Ca2MgAlFe3",
+    "tau_valence": 0.14285714285714285,
+    "n_elements": 4,
+    "n_atoms": 7,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca3 Mg1 Al1 Fe2",
+    "reduced_formula": "Ca3MgAlFe2",
+    "tau_valence": 0.14285714285714285,
+    "n_elements": 4,
+    "n_atoms": 7,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca1 Mg2 Al1 Fe3",
+    "reduced_formula": "CaMg2AlFe3",
+    "tau_valence": 0.14285714285714285,
+    "n_elements": 4,
+    "n_atoms": 7,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca2 Mg2 Al1 Fe2",
+    "reduced_formula": "Ca2Mg2AlFe2",
+    "tau_valence": 0.14285714285714285,
+    "n_elements": 4,
+    "n_atoms": 7,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca3 Mg2 Al1 Fe1",
+    "reduced_formula": "Ca3Mg2AlFe",
+    "tau_valence": 0.14285714285714285,
+    "n_elements": 4,
+    "n_atoms": 7,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca1 Mg3 Al1 Fe2",
+    "reduced_formula": "CaMg3AlFe2",
+    "tau_valence": 0.14285714285714285,
+    "n_elements": 4,
+    "n_atoms": 7,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca2 Mg3 Al1 Fe1",
+    "reduced_formula": "Ca2Mg3AlFe",
+    "tau_valence": 0.14285714285714285,
+    "n_elements": 4,
+    "n_atoms": 7,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca2 Mg1 Fe3 B1",
+    "reduced_formula": "Ca2MgFe3B",
+    "tau_valence": 0.14285714285714285,
+    "n_elements": 4,
+    "n_atoms": 7,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca3 Mg1 Fe2 B1",
+    "reduced_formula": "Ca3MgFe2B",
+    "tau_valence": 0.14285714285714285,
+    "n_elements": 4,
+    "n_atoms": 7,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca1 Mg2 Fe3 B1",
+    "reduced_formula": "CaMg2Fe3B",
+    "tau_valence": 0.14285714285714285,
+    "n_elements": 4,
+    "n_atoms": 7,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca2 Mg2 Fe2 B1",
+    "reduced_formula": "Ca2Mg2Fe2B",
+    "tau_valence": 0.14285714285714285,
+    "n_elements": 4,
+    "n_atoms": 7,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca3 Mg2 Fe1 B1",
+    "reduced_formula": "Ca3Mg2FeB",
+    "tau_valence": 0.14285714285714285,
+    "n_elements": 4,
+    "n_atoms": 7,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca1 Mg3 Fe2 B1",
+    "reduced_formula": "CaMg3Fe2B",
+    "tau_valence": 0.14285714285714285,
+    "n_elements": 4,
+    "n_atoms": 7,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca2 Mg3 Fe1 B1",
+    "reduced_formula": "Ca2Mg3FeB",
+    "tau_valence": 0.14285714285714285,
+    "n_elements": 4,
+    "n_atoms": 7,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li1 Mg5",
+    "reduced_formula": "LiMg5",
+    "tau_valence": 0.16666666666666666,
+    "n_elements": 2,
+    "n_atoms": 6,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li1 Ca5",
+    "reduced_formula": "LiCa5",
+    "tau_valence": 0.16666666666666666,
+    "n_elements": 2,
+    "n_atoms": 6,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li1 Fe5",
+    "reduced_formula": "LiFe5",
+    "tau_valence": 0.16666666666666666,
+    "n_elements": 2,
+    "n_atoms": 6,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Mg5 Al1",
+    "reduced_formula": "Mg5Al",
+    "tau_valence": 0.16666666666666666,
+    "n_elements": 2,
+    "n_atoms": 6,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Mg5 B1",
+    "reduced_formula": "Mg5B",
+    "tau_valence": 0.16666666666666666,
+    "n_elements": 2,
+    "n_atoms": 6,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca5 Al1",
+    "reduced_formula": "Ca5Al",
+    "tau_valence": 0.16666666666666666,
+    "n_elements": 2,
+    "n_atoms": 6,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Al1 Fe5",
+    "reduced_formula": "AlFe5",
+    "tau_valence": 0.16666666666666666,
+    "n_elements": 2,
+    "n_atoms": 6,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca5 B1",
+    "reduced_formula": "Ca5B",
+    "tau_valence": 0.16666666666666666,
+    "n_elements": 2,
+    "n_atoms": 6,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Fe5 B1",
+    "reduced_formula": "Fe5B",
+    "tau_valence": 0.16666666666666666,
+    "n_elements": 2,
+    "n_atoms": 6,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li1 Ca3 Mg2",
+    "reduced_formula": "LiCa3Mg2",
+    "tau_valence": 0.16666666666666666,
+    "n_elements": 3,
+    "n_atoms": 6,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li1 Ca2 Mg3",
+    "reduced_formula": "LiCa2Mg3",
+    "tau_valence": 0.16666666666666666,
+    "n_elements": 3,
+    "n_atoms": 6,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li1 Mg2 Fe3",
+    "reduced_formula": "LiMg2Fe3",
+    "tau_valence": 0.16666666666666666,
+    "n_elements": 3,
+    "n_atoms": 6,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li1 Mg3 Fe2",
+    "reduced_formula": "LiMg3Fe2",
+    "tau_valence": 0.16666666666666666,
+    "n_elements": 3,
+    "n_atoms": 6,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li1 Ca2 Fe3",
+    "reduced_formula": "LiCa2Fe3",
+    "tau_valence": 0.16666666666666666,
+    "n_elements": 3,
+    "n_atoms": 6,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li1 Ca3 Fe2",
+    "reduced_formula": "LiCa3Fe2",
+    "tau_valence": 0.16666666666666666,
+    "n_elements": 3,
+    "n_atoms": 6,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca3 Mg2 Al1",
+    "reduced_formula": "Ca3Mg2Al",
+    "tau_valence": 0.16666666666666666,
+    "n_elements": 3,
+    "n_atoms": 6,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca2 Mg3 Al1",
+    "reduced_formula": "Ca2Mg3Al",
+    "tau_valence": 0.16666666666666666,
+    "n_elements": 3,
+    "n_atoms": 6,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Mg2 Al1 Fe3",
+    "reduced_formula": "Mg2AlFe3",
+    "tau_valence": 0.16666666666666666,
+    "n_elements": 3,
+    "n_atoms": 6,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Mg3 Al1 Fe2",
+    "reduced_formula": "Mg3AlFe2",
+    "tau_valence": 0.16666666666666666,
+    "n_elements": 3,
+    "n_atoms": 6,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca3 Mg2 B1",
+    "reduced_formula": "Ca3Mg2B",
+    "tau_valence": 0.16666666666666666,
+    "n_elements": 3,
+    "n_atoms": 6,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca2 Mg3 B1",
+    "reduced_formula": "Ca2Mg3B",
+    "tau_valence": 0.16666666666666666,
+    "n_elements": 3,
+    "n_atoms": 6,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Mg2 Fe3 B1",
+    "reduced_formula": "Mg2Fe3B",
+    "tau_valence": 0.16666666666666666,
+    "n_elements": 3,
+    "n_atoms": 6,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Mg3 Fe2 B1",
+    "reduced_formula": "Mg3Fe2B",
+    "tau_valence": 0.16666666666666666,
+    "n_elements": 3,
+    "n_atoms": 6,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca2 Al1 Fe3",
+    "reduced_formula": "Ca2AlFe3",
+    "tau_valence": 0.16666666666666666,
+    "n_elements": 3,
+    "n_atoms": 6,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca3 Al1 Fe2",
+    "reduced_formula": "Ca3AlFe2",
+    "tau_valence": 0.16666666666666666,
+    "n_elements": 3,
+    "n_atoms": 6,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca2 Fe3 B1",
+    "reduced_formula": "Ca2Fe3B",
+    "tau_valence": 0.16666666666666666,
+    "n_elements": 3,
+    "n_atoms": 6,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca3 Fe2 B1",
+    "reduced_formula": "Ca3Fe2B",
+    "tau_valence": 0.16666666666666666,
+    "n_elements": 3,
+    "n_atoms": 6,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li1 Ca1 Mg1 Fe3",
+    "reduced_formula": "LiCaMgFe3",
+    "tau_valence": 0.16666666666666666,
+    "n_elements": 4,
+    "n_atoms": 6,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li1 Ca2 Mg1 Fe2",
+    "reduced_formula": "LiCa2MgFe2",
+    "tau_valence": 0.16666666666666666,
+    "n_elements": 4,
+    "n_atoms": 6,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li1 Ca3 Mg1 Fe1",
+    "reduced_formula": "LiCa3MgFe",
+    "tau_valence": 0.16666666666666666,
+    "n_elements": 4,
+    "n_atoms": 6,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li1 Ca1 Mg2 Fe2",
+    "reduced_formula": "LiCa(MgFe)2",
+    "tau_valence": 0.16666666666666666,
+    "n_elements": 4,
+    "n_atoms": 6,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li1 Ca2 Mg2 Fe1",
+    "reduced_formula": "LiCa2Mg2Fe",
+    "tau_valence": 0.16666666666666666,
+    "n_elements": 4,
+    "n_atoms": 6,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li1 Ca1 Mg3 Fe1",
+    "reduced_formula": "LiCaMg3Fe",
+    "tau_valence": 0.16666666666666666,
+    "n_elements": 4,
+    "n_atoms": 6,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca1 Mg1 Al1 Fe3",
+    "reduced_formula": "CaMgAlFe3",
+    "tau_valence": 0.16666666666666666,
+    "n_elements": 4,
+    "n_atoms": 6,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca2 Mg1 Al1 Fe2",
+    "reduced_formula": "Ca2MgAlFe2",
+    "tau_valence": 0.16666666666666666,
+    "n_elements": 4,
+    "n_atoms": 6,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca3 Mg1 Al1 Fe1",
+    "reduced_formula": "Ca3MgAlFe",
+    "tau_valence": 0.16666666666666666,
+    "n_elements": 4,
+    "n_atoms": 6,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca1 Mg2 Al1 Fe2",
+    "reduced_formula": "CaMg2AlFe2",
+    "tau_valence": 0.16666666666666666,
+    "n_elements": 4,
+    "n_atoms": 6,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca2 Mg2 Al1 Fe1",
+    "reduced_formula": "Ca2Mg2AlFe",
+    "tau_valence": 0.16666666666666666,
+    "n_elements": 4,
+    "n_atoms": 6,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca1 Mg3 Al1 Fe1",
+    "reduced_formula": "CaMg3AlFe",
+    "tau_valence": 0.16666666666666666,
+    "n_elements": 4,
+    "n_atoms": 6,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca1 Mg1 Fe3 B1",
+    "reduced_formula": "CaMgFe3B",
+    "tau_valence": 0.16666666666666666,
+    "n_elements": 4,
+    "n_atoms": 6,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca2 Mg1 Fe2 B1",
+    "reduced_formula": "Ca2MgFe2B",
+    "tau_valence": 0.16666666666666666,
+    "n_elements": 4,
+    "n_atoms": 6,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca3 Mg1 Fe1 B1",
+    "reduced_formula": "Ca3MgFeB",
+    "tau_valence": 0.16666666666666666,
+    "n_elements": 4,
+    "n_atoms": 6,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca1 Mg2 Fe2 B1",
+    "reduced_formula": "CaMg2Fe2B",
+    "tau_valence": 0.16666666666666666,
+    "n_elements": 4,
+    "n_atoms": 6,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca2 Mg2 Fe1 B1",
+    "reduced_formula": "Ca2Mg2FeB",
+    "tau_valence": 0.16666666666666666,
+    "n_elements": 4,
+    "n_atoms": 6,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca1 Mg3 Fe1 B1",
+    "reduced_formula": "CaMg3FeB",
+    "tau_valence": 0.16666666666666666,
+    "n_elements": 4,
+    "n_atoms": 6,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li1 Mg4",
+    "reduced_formula": "LiMg4",
+    "tau_valence": 0.2,
+    "n_elements": 2,
+    "n_atoms": 5,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li1 Ca4",
+    "reduced_formula": "LiCa4",
+    "tau_valence": 0.2,
+    "n_elements": 2,
+    "n_atoms": 5,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li1 Fe4",
+    "reduced_formula": "LiFe4",
+    "tau_valence": 0.2,
+    "n_elements": 2,
+    "n_atoms": 5,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Mg4 Al1",
+    "reduced_formula": "Mg4Al",
+    "tau_valence": 0.2,
+    "n_elements": 2,
+    "n_atoms": 5,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Mg4 B1",
+    "reduced_formula": "Mg4B",
+    "tau_valence": 0.2,
+    "n_elements": 2,
+    "n_atoms": 5,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca4 Al1",
+    "reduced_formula": "Ca4Al",
+    "tau_valence": 0.2,
+    "n_elements": 2,
+    "n_atoms": 5,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Al1 Fe4",
+    "reduced_formula": "AlFe4",
+    "tau_valence": 0.2,
+    "n_elements": 2,
+    "n_atoms": 5,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca4 B1",
+    "reduced_formula": "Ca4B",
+    "tau_valence": 0.2,
+    "n_elements": 2,
+    "n_atoms": 5,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Fe4 B1",
+    "reduced_formula": "Fe4B",
+    "tau_valence": 0.2,
+    "n_elements": 2,
+    "n_atoms": 5,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li1 Ca3 Mg1",
+    "reduced_formula": "LiCa3Mg",
+    "tau_valence": 0.2,
+    "n_elements": 3,
+    "n_atoms": 5,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li1 Ca2 Mg2",
+    "reduced_formula": "Li(CaMg)2",
+    "tau_valence": 0.2,
+    "n_elements": 3,
+    "n_atoms": 5,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li1 Ca1 Mg3",
+    "reduced_formula": "LiCaMg3",
+    "tau_valence": 0.2,
+    "n_elements": 3,
+    "n_atoms": 5,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li1 Mg1 Fe3",
+    "reduced_formula": "LiMgFe3",
+    "tau_valence": 0.2,
+    "n_elements": 3,
+    "n_atoms": 5,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li1 Mg2 Fe2",
+    "reduced_formula": "Li(MgFe)2",
+    "tau_valence": 0.2,
+    "n_elements": 3,
+    "n_atoms": 5,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li1 Mg3 Fe1",
+    "reduced_formula": "LiMg3Fe",
+    "tau_valence": 0.2,
+    "n_elements": 3,
+    "n_atoms": 5,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li1 Ca1 Fe3",
+    "reduced_formula": "LiCaFe3",
+    "tau_valence": 0.2,
+    "n_elements": 3,
+    "n_atoms": 5,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li1 Ca2 Fe2",
+    "reduced_formula": "Li(CaFe)2",
+    "tau_valence": 0.2,
+    "n_elements": 3,
+    "n_atoms": 5,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li1 Ca3 Fe1",
+    "reduced_formula": "LiCa3Fe",
+    "tau_valence": 0.2,
+    "n_elements": 3,
+    "n_atoms": 5,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca3 Mg1 Al1",
+    "reduced_formula": "Ca3MgAl",
+    "tau_valence": 0.2,
+    "n_elements": 3,
+    "n_atoms": 5,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca2 Mg2 Al1",
+    "reduced_formula": "Ca2Mg2Al",
+    "tau_valence": 0.2,
+    "n_elements": 3,
+    "n_atoms": 5,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca1 Mg3 Al1",
+    "reduced_formula": "CaMg3Al",
+    "tau_valence": 0.2,
+    "n_elements": 3,
+    "n_atoms": 5,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Mg1 Al1 Fe3",
+    "reduced_formula": "MgAlFe3",
+    "tau_valence": 0.2,
+    "n_elements": 3,
+    "n_atoms": 5,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Mg2 Al1 Fe2",
+    "reduced_formula": "Mg2AlFe2",
+    "tau_valence": 0.2,
+    "n_elements": 3,
+    "n_atoms": 5,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Mg3 Al1 Fe1",
+    "reduced_formula": "Mg3AlFe",
+    "tau_valence": 0.2,
+    "n_elements": 3,
+    "n_atoms": 5,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca3 Mg1 B1",
+    "reduced_formula": "Ca3MgB",
+    "tau_valence": 0.2,
+    "n_elements": 3,
+    "n_atoms": 5,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca2 Mg2 B1",
+    "reduced_formula": "Ca2Mg2B",
+    "tau_valence": 0.2,
+    "n_elements": 3,
+    "n_atoms": 5,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca1 Mg3 B1",
+    "reduced_formula": "CaMg3B",
+    "tau_valence": 0.2,
+    "n_elements": 3,
+    "n_atoms": 5,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Mg1 Fe3 B1",
+    "reduced_formula": "MgFe3B",
+    "tau_valence": 0.2,
+    "n_elements": 3,
+    "n_atoms": 5,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Mg2 Fe2 B1",
+    "reduced_formula": "Mg2Fe2B",
+    "tau_valence": 0.2,
+    "n_elements": 3,
+    "n_atoms": 5,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Mg3 Fe1 B1",
+    "reduced_formula": "Mg3FeB",
+    "tau_valence": 0.2,
+    "n_elements": 3,
+    "n_atoms": 5,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca1 Al1 Fe3",
+    "reduced_formula": "CaAlFe3",
+    "tau_valence": 0.2,
+    "n_elements": 3,
+    "n_atoms": 5,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca2 Al1 Fe2",
+    "reduced_formula": "Ca2AlFe2",
+    "tau_valence": 0.2,
+    "n_elements": 3,
+    "n_atoms": 5,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca3 Al1 Fe1",
+    "reduced_formula": "Ca3AlFe",
+    "tau_valence": 0.2,
+    "n_elements": 3,
+    "n_atoms": 5,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca1 Fe3 B1",
+    "reduced_formula": "CaFe3B",
+    "tau_valence": 0.2,
+    "n_elements": 3,
+    "n_atoms": 5,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca2 Fe2 B1",
+    "reduced_formula": "Ca2Fe2B",
+    "tau_valence": 0.2,
+    "n_elements": 3,
+    "n_atoms": 5,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca3 Fe1 B1",
+    "reduced_formula": "Ca3FeB",
+    "tau_valence": 0.2,
+    "n_elements": 3,
+    "n_atoms": 5,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li1 Ca1 Mg1 Fe2",
+    "reduced_formula": "LiCaMgFe2",
+    "tau_valence": 0.2,
+    "n_elements": 4,
+    "n_atoms": 5,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li1 Ca2 Mg1 Fe1",
+    "reduced_formula": "LiCa2MgFe",
+    "tau_valence": 0.2,
+    "n_elements": 4,
+    "n_atoms": 5,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li1 Ca1 Mg2 Fe1",
+    "reduced_formula": "LiCaMg2Fe",
+    "tau_valence": 0.2,
+    "n_elements": 4,
+    "n_atoms": 5,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca1 Mg1 Al1 Fe2",
+    "reduced_formula": "CaMgAlFe2",
+    "tau_valence": 0.2,
+    "n_elements": 4,
+    "n_atoms": 5,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca2 Mg1 Al1 Fe1",
+    "reduced_formula": "Ca2MgAlFe",
+    "tau_valence": 0.2,
+    "n_elements": 4,
+    "n_atoms": 5,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca1 Mg2 Al1 Fe1",
+    "reduced_formula": "CaMg2AlFe",
+    "tau_valence": 0.2,
+    "n_elements": 4,
+    "n_atoms": 5,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca1 Mg1 Fe2 B1",
+    "reduced_formula": "CaMgFe2B",
+    "tau_valence": 0.2,
+    "n_elements": 4,
+    "n_atoms": 5,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca2 Mg1 Fe1 B1",
+    "reduced_formula": "Ca2MgFeB",
+    "tau_valence": 0.2,
+    "n_elements": 4,
+    "n_atoms": 5,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca1 Mg2 Fe1 B1",
+    "reduced_formula": "CaMg2FeB",
+    "tau_valence": 0.2,
+    "n_elements": 4,
+    "n_atoms": 5,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li1 Mg3",
+    "reduced_formula": "LiMg3",
+    "tau_valence": 0.25,
+    "n_elements": 2,
+    "n_atoms": 4,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li1 Ca3",
+    "reduced_formula": "LiCa3",
+    "tau_valence": 0.25,
+    "n_elements": 2,
+    "n_atoms": 4,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li1 Fe3",
+    "reduced_formula": "LiFe3",
+    "tau_valence": 0.25,
+    "n_elements": 2,
+    "n_atoms": 4,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Mg3 Al1",
+    "reduced_formula": "Mg3Al",
+    "tau_valence": 0.25,
+    "n_elements": 2,
+    "n_atoms": 4,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Mg3 B1",
+    "reduced_formula": "Mg3B",
+    "tau_valence": 0.25,
+    "n_elements": 2,
+    "n_atoms": 4,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca3 Al1",
+    "reduced_formula": "Ca3Al",
+    "tau_valence": 0.25,
+    "n_elements": 2,
+    "n_atoms": 4,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Al1 Fe3",
+    "reduced_formula": "AlFe3",
+    "tau_valence": 0.25,
+    "n_elements": 2,
+    "n_atoms": 4,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca3 B1",
+    "reduced_formula": "Ca3B",
+    "tau_valence": 0.25,
+    "n_elements": 2,
+    "n_atoms": 4,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Fe3 B1",
+    "reduced_formula": "Fe3B",
+    "tau_valence": 0.25,
+    "n_elements": 2,
+    "n_atoms": 4,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li1 Ca2 Mg1",
+    "reduced_formula": "LiCa2Mg",
+    "tau_valence": 0.25,
+    "n_elements": 3,
+    "n_atoms": 4,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li1 Ca1 Mg2",
+    "reduced_formula": "LiCaMg2",
+    "tau_valence": 0.25,
+    "n_elements": 3,
+    "n_atoms": 4,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li2 Ca3 Mg3",
+    "reduced_formula": "Li2(CaMg)3",
+    "tau_valence": 0.25,
+    "n_elements": 3,
+    "n_atoms": 8,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li1 Mg1 Fe2",
+    "reduced_formula": "LiMgFe2",
+    "tau_valence": 0.25,
+    "n_elements": 3,
+    "n_atoms": 4,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li1 Mg2 Fe1",
+    "reduced_formula": "LiMg2Fe",
+    "tau_valence": 0.25,
+    "n_elements": 3,
+    "n_atoms": 4,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li2 Mg3 Fe3",
+    "reduced_formula": "Li2(MgFe)3",
+    "tau_valence": 0.25,
+    "n_elements": 3,
+    "n_atoms": 8,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li1 Ca1 Fe2",
+    "reduced_formula": "LiCaFe2",
+    "tau_valence": 0.25,
+    "n_elements": 3,
+    "n_atoms": 4,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li1 Ca2 Fe1",
+    "reduced_formula": "LiCa2Fe",
+    "tau_valence": 0.25,
+    "n_elements": 3,
+    "n_atoms": 4,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li2 Ca3 Fe3",
+    "reduced_formula": "Li2(CaFe)3",
+    "tau_valence": 0.25,
+    "n_elements": 3,
+    "n_atoms": 8,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca2 Mg1 Al1",
+    "reduced_formula": "Ca2MgAl",
+    "tau_valence": 0.25,
+    "n_elements": 3,
+    "n_atoms": 4,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca1 Mg2 Al1",
+    "reduced_formula": "CaMg2Al",
+    "tau_valence": 0.25,
+    "n_elements": 3,
+    "n_atoms": 4,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca3 Mg3 Al2",
+    "reduced_formula": "Ca3Mg3Al2",
+    "tau_valence": 0.25,
+    "n_elements": 3,
+    "n_atoms": 8,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Mg1 Al1 Fe2",
+    "reduced_formula": "MgAlFe2",
+    "tau_valence": 0.25,
+    "n_elements": 3,
+    "n_atoms": 4,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Mg2 Al1 Fe1",
+    "reduced_formula": "Mg2AlFe",
+    "tau_valence": 0.25,
+    "n_elements": 3,
+    "n_atoms": 4,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Mg3 Al2 Fe3",
+    "reduced_formula": "Mg3Al2Fe3",
+    "tau_valence": 0.25,
+    "n_elements": 3,
+    "n_atoms": 8,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca2 Mg1 B1",
+    "reduced_formula": "Ca2MgB",
+    "tau_valence": 0.25,
+    "n_elements": 3,
+    "n_atoms": 4,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca1 Mg2 B1",
+    "reduced_formula": "CaMg2B",
+    "tau_valence": 0.25,
+    "n_elements": 3,
+    "n_atoms": 4,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca3 Mg3 B2",
+    "reduced_formula": "Ca3Mg3B2",
+    "tau_valence": 0.25,
+    "n_elements": 3,
+    "n_atoms": 8,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Mg1 Fe2 B1",
+    "reduced_formula": "MgFe2B",
+    "tau_valence": 0.25,
+    "n_elements": 3,
+    "n_atoms": 4,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Mg2 Fe1 B1",
+    "reduced_formula": "Mg2FeB",
+    "tau_valence": 0.25,
+    "n_elements": 3,
+    "n_atoms": 4,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Mg3 Fe3 B2",
+    "reduced_formula": "Mg3Fe3B2",
+    "tau_valence": 0.25,
+    "n_elements": 3,
+    "n_atoms": 8,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca1 Al1 Fe2",
+    "reduced_formula": "CaAlFe2",
+    "tau_valence": 0.25,
+    "n_elements": 3,
+    "n_atoms": 4,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca2 Al1 Fe1",
+    "reduced_formula": "Ca2AlFe",
+    "tau_valence": 0.25,
+    "n_elements": 3,
+    "n_atoms": 4,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca3 Al2 Fe3",
+    "reduced_formula": "Ca3Al2Fe3",
+    "tau_valence": 0.25,
+    "n_elements": 3,
+    "n_atoms": 8,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca1 Fe2 B1",
+    "reduced_formula": "CaFe2B",
+    "tau_valence": 0.25,
+    "n_elements": 3,
+    "n_atoms": 4,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca2 Fe1 B1",
+    "reduced_formula": "Ca2FeB",
+    "tau_valence": 0.25,
+    "n_elements": 3,
+    "n_atoms": 4,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca3 Fe3 B2",
+    "reduced_formula": "Ca3Fe3B2",
+    "tau_valence": 0.25,
+    "n_elements": 3,
+    "n_atoms": 8,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li1 Ca3 Mg3 Al1",
+    "reduced_formula": "LiCa3Mg3Al",
+    "tau_valence": 0.25,
+    "n_elements": 4,
+    "n_atoms": 8,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li1 Mg3 Al1 Fe3",
+    "reduced_formula": "LiMg3AlFe3",
+    "tau_valence": 0.25,
+    "n_elements": 4,
+    "n_atoms": 8,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li1 Ca1 Mg1 Fe1",
+    "reduced_formula": "LiCaMgFe",
+    "tau_valence": 0.25,
+    "n_elements": 4,
+    "n_atoms": 4,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li2 Ca2 Mg1 Fe3",
+    "reduced_formula": "Li2Ca2MgFe3",
+    "tau_valence": 0.25,
+    "n_elements": 4,
+    "n_atoms": 8,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li2 Ca3 Mg1 Fe2",
+    "reduced_formula": "Li2Ca3MgFe2",
+    "tau_valence": 0.25,
+    "n_elements": 4,
+    "n_atoms": 8,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li2 Ca1 Mg2 Fe3",
+    "reduced_formula": "Li2CaMg2Fe3",
+    "tau_valence": 0.25,
+    "n_elements": 4,
+    "n_atoms": 8,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li2 Ca3 Mg2 Fe1",
+    "reduced_formula": "Li2Ca3Mg2Fe",
+    "tau_valence": 0.25,
+    "n_elements": 4,
+    "n_atoms": 8,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li2 Ca1 Mg3 Fe2",
+    "reduced_formula": "Li2CaMg3Fe2",
+    "tau_valence": 0.25,
+    "n_elements": 4,
+    "n_atoms": 8,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li2 Ca2 Mg3 Fe1",
+    "reduced_formula": "Li2Ca2Mg3Fe",
+    "tau_valence": 0.25,
+    "n_elements": 4,
+    "n_atoms": 8,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li1 Ca3 Mg3 B1",
+    "reduced_formula": "LiCa3Mg3B",
+    "tau_valence": 0.25,
+    "n_elements": 4,
+    "n_atoms": 8,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li1 Mg3 Fe3 B1",
+    "reduced_formula": "LiMg3Fe3B",
+    "tau_valence": 0.25,
+    "n_elements": 4,
+    "n_atoms": 8,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li1 Ca3 Al1 Fe3",
+    "reduced_formula": "LiCa3AlFe3",
+    "tau_valence": 0.25,
+    "n_elements": 4,
+    "n_atoms": 8,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li1 Ca3 Fe3 B1",
+    "reduced_formula": "LiCa3Fe3B",
+    "tau_valence": 0.25,
+    "n_elements": 4,
+    "n_atoms": 8,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca1 Mg1 Al1 Fe1",
+    "reduced_formula": "CaMgAlFe",
+    "tau_valence": 0.25,
+    "n_elements": 4,
+    "n_atoms": 4,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca2 Mg1 Al2 Fe3",
+    "reduced_formula": "Ca2MgAl2Fe3",
+    "tau_valence": 0.25,
+    "n_elements": 4,
+    "n_atoms": 8,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca3 Mg1 Al2 Fe2",
+    "reduced_formula": "Ca3Mg(AlFe)2",
+    "tau_valence": 0.25,
+    "n_elements": 4,
+    "n_atoms": 8,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca1 Mg2 Al2 Fe3",
+    "reduced_formula": "CaMg2Al2Fe3",
+    "tau_valence": 0.25,
+    "n_elements": 4,
+    "n_atoms": 8,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca3 Mg2 Al2 Fe1",
+    "reduced_formula": "Ca3Mg2Al2Fe",
+    "tau_valence": 0.25,
+    "n_elements": 4,
+    "n_atoms": 8,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca1 Mg3 Al2 Fe2",
+    "reduced_formula": "CaMg3(AlFe)2",
+    "tau_valence": 0.25,
+    "n_elements": 4,
+    "n_atoms": 8,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca2 Mg3 Al2 Fe1",
+    "reduced_formula": "Ca2Mg3Al2Fe",
+    "tau_valence": 0.25,
+    "n_elements": 4,
+    "n_atoms": 8,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca3 Mg3 Al1 B1",
+    "reduced_formula": "Ca3Mg3AlB",
+    "tau_valence": 0.25,
+    "n_elements": 4,
+    "n_atoms": 8,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Mg3 Al1 Fe3 B1",
+    "reduced_formula": "Mg3AlFe3B",
+    "tau_valence": 0.25,
+    "n_elements": 4,
+    "n_atoms": 8,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca1 Mg1 Fe1 B1",
+    "reduced_formula": "CaMgFeB",
+    "tau_valence": 0.25,
+    "n_elements": 4,
+    "n_atoms": 4,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca2 Mg1 Fe3 B2",
+    "reduced_formula": "Ca2MgFe3B2",
+    "tau_valence": 0.25,
+    "n_elements": 4,
+    "n_atoms": 8,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca3 Mg1 Fe2 B2",
+    "reduced_formula": "Ca3Mg(FeB)2",
+    "tau_valence": 0.25,
+    "n_elements": 4,
+    "n_atoms": 8,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca1 Mg2 Fe3 B2",
+    "reduced_formula": "CaMg2Fe3B2",
+    "tau_valence": 0.25,
+    "n_elements": 4,
+    "n_atoms": 8,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca3 Mg2 Fe1 B2",
+    "reduced_formula": "Ca3Mg2FeB2",
+    "tau_valence": 0.25,
+    "n_elements": 4,
+    "n_atoms": 8,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca1 Mg3 Fe2 B2",
+    "reduced_formula": "CaMg3(FeB)2",
+    "tau_valence": 0.25,
+    "n_elements": 4,
+    "n_atoms": 8,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca2 Mg3 Fe1 B2",
+    "reduced_formula": "Ca2Mg3FeB2",
+    "tau_valence": 0.25,
+    "n_elements": 4,
+    "n_atoms": 8,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca3 Al1 Fe3 B1",
+    "reduced_formula": "Ca3AlFe3B",
+    "tau_valence": 0.25,
+    "n_elements": 4,
+    "n_atoms": 8,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li2 Mg5",
+    "reduced_formula": "Li2Mg5",
+    "tau_valence": 0.2857142857142857,
+    "n_elements": 2,
+    "n_atoms": 7,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li2 Ca5",
+    "reduced_formula": "Li2Ca5",
+    "tau_valence": 0.2857142857142857,
+    "n_elements": 2,
+    "n_atoms": 7,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li2 Fe5",
+    "reduced_formula": "Li2Fe5",
+    "tau_valence": 0.2857142857142857,
+    "n_elements": 2,
+    "n_atoms": 7,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Mg5 Al2",
+    "reduced_formula": "Mg5Al2",
+    "tau_valence": 0.2857142857142857,
+    "n_elements": 2,
+    "n_atoms": 7,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Mg5 B2",
+    "reduced_formula": "Mg5B2",
+    "tau_valence": 0.2857142857142857,
+    "n_elements": 2,
+    "n_atoms": 7,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca5 Al2",
+    "reduced_formula": "Ca5Al2",
+    "tau_valence": 0.2857142857142857,
+    "n_elements": 2,
+    "n_atoms": 7,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Al2 Fe5",
+    "reduced_formula": "Al2Fe5",
+    "tau_valence": 0.2857142857142857,
+    "n_elements": 2,
+    "n_atoms": 7,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca5 B2",
+    "reduced_formula": "Ca5B2",
+    "tau_valence": 0.2857142857142857,
+    "n_elements": 2,
+    "n_atoms": 7,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Fe5 B2",
+    "reduced_formula": "Fe5B2",
+    "tau_valence": 0.2857142857142857,
+    "n_elements": 2,
+    "n_atoms": 7,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li2 Ca3 Mg2",
+    "reduced_formula": "Li2Ca3Mg2",
+    "tau_valence": 0.2857142857142857,
+    "n_elements": 3,
+    "n_atoms": 7,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li2 Ca2 Mg3",
+    "reduced_formula": "Li2Ca2Mg3",
+    "tau_valence": 0.2857142857142857,
+    "n_elements": 3,
+    "n_atoms": 7,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li2 Mg2 Fe3",
+    "reduced_formula": "Li2Mg2Fe3",
+    "tau_valence": 0.2857142857142857,
+    "n_elements": 3,
+    "n_atoms": 7,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li2 Mg3 Fe2",
+    "reduced_formula": "Li2Mg3Fe2",
+    "tau_valence": 0.2857142857142857,
+    "n_elements": 3,
+    "n_atoms": 7,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li2 Ca2 Fe3",
+    "reduced_formula": "Li2Ca2Fe3",
+    "tau_valence": 0.2857142857142857,
+    "n_elements": 3,
+    "n_atoms": 7,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li2 Ca3 Fe2",
+    "reduced_formula": "Li2Ca3Fe2",
+    "tau_valence": 0.2857142857142857,
+    "n_elements": 3,
+    "n_atoms": 7,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca3 Mg2 Al2",
+    "reduced_formula": "Ca3(MgAl)2",
+    "tau_valence": 0.2857142857142857,
+    "n_elements": 3,
+    "n_atoms": 7,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca2 Mg3 Al2",
+    "reduced_formula": "Ca2Mg3Al2",
+    "tau_valence": 0.2857142857142857,
+    "n_elements": 3,
+    "n_atoms": 7,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Mg2 Al2 Fe3",
+    "reduced_formula": "Mg2Al2Fe3",
+    "tau_valence": 0.2857142857142857,
+    "n_elements": 3,
+    "n_atoms": 7,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Mg3 Al2 Fe2",
+    "reduced_formula": "Mg3(AlFe)2",
+    "tau_valence": 0.2857142857142857,
+    "n_elements": 3,
+    "n_atoms": 7,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca3 Mg2 B2",
+    "reduced_formula": "Ca3(MgB)2",
+    "tau_valence": 0.2857142857142857,
+    "n_elements": 3,
+    "n_atoms": 7,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca2 Mg3 B2",
+    "reduced_formula": "Ca2Mg3B2",
+    "tau_valence": 0.2857142857142857,
+    "n_elements": 3,
+    "n_atoms": 7,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Mg2 Fe3 B2",
+    "reduced_formula": "Mg2Fe3B2",
+    "tau_valence": 0.2857142857142857,
+    "n_elements": 3,
+    "n_atoms": 7,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Mg3 Fe2 B2",
+    "reduced_formula": "Mg3(FeB)2",
+    "tau_valence": 0.2857142857142857,
+    "n_elements": 3,
+    "n_atoms": 7,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca2 Al2 Fe3",
+    "reduced_formula": "Ca2Al2Fe3",
+    "tau_valence": 0.2857142857142857,
+    "n_elements": 3,
+    "n_atoms": 7,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca3 Al2 Fe2",
+    "reduced_formula": "Ca3(AlFe)2",
+    "tau_valence": 0.2857142857142857,
+    "n_elements": 3,
+    "n_atoms": 7,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca2 Fe3 B2",
+    "reduced_formula": "Ca2Fe3B2",
+    "tau_valence": 0.2857142857142857,
+    "n_elements": 3,
+    "n_atoms": 7,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca3 Fe2 B2",
+    "reduced_formula": "Ca3(FeB)2",
+    "tau_valence": 0.2857142857142857,
+    "n_elements": 3,
+    "n_atoms": 7,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li1 Ca3 Mg2 Al1",
+    "reduced_formula": "LiCa3Mg2Al",
+    "tau_valence": 0.2857142857142857,
+    "n_elements": 4,
+    "n_atoms": 7,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li1 Ca2 Mg3 Al1",
+    "reduced_formula": "LiCa2Mg3Al",
+    "tau_valence": 0.2857142857142857,
+    "n_elements": 4,
+    "n_atoms": 7,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li1 Mg2 Al1 Fe3",
+    "reduced_formula": "LiMg2AlFe3",
+    "tau_valence": 0.2857142857142857,
+    "n_elements": 4,
+    "n_atoms": 7,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li1 Mg3 Al1 Fe2",
+    "reduced_formula": "LiMg3AlFe2",
+    "tau_valence": 0.2857142857142857,
+    "n_elements": 4,
+    "n_atoms": 7,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li2 Ca1 Mg1 Fe3",
+    "reduced_formula": "Li2CaMgFe3",
+    "tau_valence": 0.2857142857142857,
+    "n_elements": 4,
+    "n_atoms": 7,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li2 Ca2 Mg1 Fe2",
+    "reduced_formula": "Li2Ca2MgFe2",
+    "tau_valence": 0.2857142857142857,
+    "n_elements": 4,
+    "n_atoms": 7,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li2 Ca3 Mg1 Fe1",
+    "reduced_formula": "Li2Ca3MgFe",
+    "tau_valence": 0.2857142857142857,
+    "n_elements": 4,
+    "n_atoms": 7,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li2 Ca1 Mg2 Fe2",
+    "reduced_formula": "Li2Ca(MgFe)2",
+    "tau_valence": 0.2857142857142857,
+    "n_elements": 4,
+    "n_atoms": 7,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li2 Ca2 Mg2 Fe1",
+    "reduced_formula": "Li2Ca2Mg2Fe",
+    "tau_valence": 0.2857142857142857,
+    "n_elements": 4,
+    "n_atoms": 7,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li2 Ca1 Mg3 Fe1",
+    "reduced_formula": "Li2CaMg3Fe",
+    "tau_valence": 0.2857142857142857,
+    "n_elements": 4,
+    "n_atoms": 7,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li1 Ca3 Mg2 B1",
+    "reduced_formula": "LiCa3Mg2B",
+    "tau_valence": 0.2857142857142857,
+    "n_elements": 4,
+    "n_atoms": 7,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li1 Ca2 Mg3 B1",
+    "reduced_formula": "LiCa2Mg3B",
+    "tau_valence": 0.2857142857142857,
+    "n_elements": 4,
+    "n_atoms": 7,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li1 Mg2 Fe3 B1",
+    "reduced_formula": "LiMg2Fe3B",
+    "tau_valence": 0.2857142857142857,
+    "n_elements": 4,
+    "n_atoms": 7,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li1 Mg3 Fe2 B1",
+    "reduced_formula": "LiMg3Fe2B",
+    "tau_valence": 0.2857142857142857,
+    "n_elements": 4,
+    "n_atoms": 7,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li1 Ca2 Al1 Fe3",
+    "reduced_formula": "LiCa2AlFe3",
+    "tau_valence": 0.2857142857142857,
+    "n_elements": 4,
+    "n_atoms": 7,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li1 Ca3 Al1 Fe2",
+    "reduced_formula": "LiCa3AlFe2",
+    "tau_valence": 0.2857142857142857,
+    "n_elements": 4,
+    "n_atoms": 7,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li1 Ca2 Fe3 B1",
+    "reduced_formula": "LiCa2Fe3B",
+    "tau_valence": 0.2857142857142857,
+    "n_elements": 4,
+    "n_atoms": 7,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li1 Ca3 Fe2 B1",
+    "reduced_formula": "LiCa3Fe2B",
+    "tau_valence": 0.2857142857142857,
+    "n_elements": 4,
+    "n_atoms": 7,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca1 Mg1 Al2 Fe3",
+    "reduced_formula": "CaMgAl2Fe3",
+    "tau_valence": 0.2857142857142857,
+    "n_elements": 4,
+    "n_atoms": 7,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca2 Mg1 Al2 Fe2",
+    "reduced_formula": "Ca2Mg(AlFe)2",
+    "tau_valence": 0.2857142857142857,
+    "n_elements": 4,
+    "n_atoms": 7,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca3 Mg1 Al2 Fe1",
+    "reduced_formula": "Ca3MgAl2Fe",
+    "tau_valence": 0.2857142857142857,
+    "n_elements": 4,
+    "n_atoms": 7,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca1 Mg2 Al2 Fe2",
+    "reduced_formula": "CaMg2(AlFe)2",
+    "tau_valence": 0.2857142857142857,
+    "n_elements": 4,
+    "n_atoms": 7,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca2 Mg2 Al2 Fe1",
+    "reduced_formula": "Ca2Mg2Al2Fe",
+    "tau_valence": 0.2857142857142857,
+    "n_elements": 4,
+    "n_atoms": 7,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca1 Mg3 Al2 Fe1",
+    "reduced_formula": "CaMg3Al2Fe",
+    "tau_valence": 0.2857142857142857,
+    "n_elements": 4,
+    "n_atoms": 7,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca3 Mg2 Al1 B1",
+    "reduced_formula": "Ca3Mg2AlB",
+    "tau_valence": 0.2857142857142857,
+    "n_elements": 4,
+    "n_atoms": 7,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca2 Mg3 Al1 B1",
+    "reduced_formula": "Ca2Mg3AlB",
+    "tau_valence": 0.2857142857142857,
+    "n_elements": 4,
+    "n_atoms": 7,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Mg2 Al1 Fe3 B1",
+    "reduced_formula": "Mg2AlFe3B",
+    "tau_valence": 0.2857142857142857,
+    "n_elements": 4,
+    "n_atoms": 7,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Mg3 Al1 Fe2 B1",
+    "reduced_formula": "Mg3AlFe2B",
+    "tau_valence": 0.2857142857142857,
+    "n_elements": 4,
+    "n_atoms": 7,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca1 Mg1 Fe3 B2",
+    "reduced_formula": "CaMgFe3B2",
+    "tau_valence": 0.2857142857142857,
+    "n_elements": 4,
+    "n_atoms": 7,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca2 Mg1 Fe2 B2",
+    "reduced_formula": "Ca2Mg(FeB)2",
+    "tau_valence": 0.2857142857142857,
+    "n_elements": 4,
+    "n_atoms": 7,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca3 Mg1 Fe1 B2",
+    "reduced_formula": "Ca3MgFeB2",
+    "tau_valence": 0.2857142857142857,
+    "n_elements": 4,
+    "n_atoms": 7,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca1 Mg2 Fe2 B2",
+    "reduced_formula": "CaMg2(FeB)2",
+    "tau_valence": 0.2857142857142857,
+    "n_elements": 4,
+    "n_atoms": 7,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca2 Mg2 Fe1 B2",
+    "reduced_formula": "Ca2Mg2FeB2",
+    "tau_valence": 0.2857142857142857,
+    "n_elements": 4,
+    "n_atoms": 7,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca1 Mg3 Fe1 B2",
+    "reduced_formula": "CaMg3FeB2",
+    "tau_valence": 0.2857142857142857,
+    "n_elements": 4,
+    "n_atoms": 7,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca2 Al1 Fe3 B1",
+    "reduced_formula": "Ca2AlFe3B",
+    "tau_valence": 0.2857142857142857,
+    "n_elements": 4,
+    "n_atoms": 7,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca3 Al1 Fe2 B1",
+    "reduced_formula": "Ca3AlFe2B",
+    "tau_valence": 0.2857142857142857,
+    "n_elements": 4,
+    "n_atoms": 7,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li1 Mg2",
+    "reduced_formula": "LiMg2",
+    "tau_valence": 0.3333333333333333,
+    "n_elements": 2,
+    "n_atoms": 3,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li1 Ca2",
+    "reduced_formula": "LiCa2",
+    "tau_valence": 0.3333333333333333,
+    "n_elements": 2,
+    "n_atoms": 3,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li1 Fe2",
+    "reduced_formula": "LiFe2",
+    "tau_valence": 0.3333333333333333,
+    "n_elements": 2,
+    "n_atoms": 3,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Mg2 Al1",
+    "reduced_formula": "Mg2Al",
+    "tau_valence": 0.3333333333333333,
+    "n_elements": 2,
+    "n_atoms": 3,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Mg2 B1",
+    "reduced_formula": "Mg2B",
+    "tau_valence": 0.3333333333333333,
+    "n_elements": 2,
+    "n_atoms": 3,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca2 Al1",
+    "reduced_formula": "Ca2Al",
+    "tau_valence": 0.3333333333333333,
+    "n_elements": 2,
+    "n_atoms": 3,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Al1 Fe2",
+    "reduced_formula": "AlFe2",
+    "tau_valence": 0.3333333333333333,
+    "n_elements": 2,
+    "n_atoms": 3,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca2 B1",
+    "reduced_formula": "Ca2B",
+    "tau_valence": 0.3333333333333333,
+    "n_elements": 2,
+    "n_atoms": 3,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Fe2 B1",
+    "reduced_formula": "Fe2B",
+    "tau_valence": 0.3333333333333333,
+    "n_elements": 2,
+    "n_atoms": 3,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li1 Ca1 Mg1",
+    "reduced_formula": "LiCaMg",
+    "tau_valence": 0.3333333333333333,
+    "n_elements": 3,
+    "n_atoms": 3,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li2 Ca3 Mg1",
+    "reduced_formula": "Li2Ca3Mg",
+    "tau_valence": 0.3333333333333333,
+    "n_elements": 3,
+    "n_atoms": 6,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li2 Ca1 Mg3",
+    "reduced_formula": "Li2CaMg3",
+    "tau_valence": 0.3333333333333333,
+    "n_elements": 3,
+    "n_atoms": 6,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li1 Mg1 Fe1",
+    "reduced_formula": "LiMgFe",
+    "tau_valence": 0.3333333333333333,
+    "n_elements": 3,
+    "n_atoms": 3,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li2 Mg1 Fe3",
+    "reduced_formula": "Li2MgFe3",
+    "tau_valence": 0.3333333333333333,
+    "n_elements": 3,
+    "n_atoms": 6,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li2 Mg3 Fe1",
+    "reduced_formula": "Li2Mg3Fe",
+    "tau_valence": 0.3333333333333333,
+    "n_elements": 3,
+    "n_atoms": 6,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li1 Ca1 Fe1",
+    "reduced_formula": "LiCaFe",
+    "tau_valence": 0.3333333333333333,
+    "n_elements": 3,
+    "n_atoms": 3,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li2 Ca1 Fe3",
+    "reduced_formula": "Li2CaFe3",
+    "tau_valence": 0.3333333333333333,
+    "n_elements": 3,
+    "n_atoms": 6,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li2 Ca3 Fe1",
+    "reduced_formula": "Li2Ca3Fe",
+    "tau_valence": 0.3333333333333333,
+    "n_elements": 3,
+    "n_atoms": 6,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca1 Mg1 Al1",
+    "reduced_formula": "CaMgAl",
+    "tau_valence": 0.3333333333333333,
+    "n_elements": 3,
+    "n_atoms": 3,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca3 Mg1 Al2",
+    "reduced_formula": "Ca3MgAl2",
+    "tau_valence": 0.3333333333333333,
+    "n_elements": 3,
+    "n_atoms": 6,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca1 Mg3 Al2",
+    "reduced_formula": "CaMg3Al2",
+    "tau_valence": 0.3333333333333333,
+    "n_elements": 3,
+    "n_atoms": 6,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Mg1 Al1 Fe1",
+    "reduced_formula": "MgAlFe",
+    "tau_valence": 0.3333333333333333,
+    "n_elements": 3,
+    "n_atoms": 3,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Mg1 Al2 Fe3",
+    "reduced_formula": "MgAl2Fe3",
+    "tau_valence": 0.3333333333333333,
+    "n_elements": 3,
+    "n_atoms": 6,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Mg3 Al2 Fe1",
+    "reduced_formula": "Mg3Al2Fe",
+    "tau_valence": 0.3333333333333333,
+    "n_elements": 3,
+    "n_atoms": 6,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca1 Mg1 B1",
+    "reduced_formula": "CaMgB",
+    "tau_valence": 0.3333333333333333,
+    "n_elements": 3,
+    "n_atoms": 3,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca3 Mg1 B2",
+    "reduced_formula": "Ca3MgB2",
+    "tau_valence": 0.3333333333333333,
+    "n_elements": 3,
+    "n_atoms": 6,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca1 Mg3 B2",
+    "reduced_formula": "CaMg3B2",
+    "tau_valence": 0.3333333333333333,
+    "n_elements": 3,
+    "n_atoms": 6,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Mg1 Fe1 B1",
+    "reduced_formula": "MgFeB",
+    "tau_valence": 0.3333333333333333,
+    "n_elements": 3,
+    "n_atoms": 3,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Mg1 Fe3 B2",
+    "reduced_formula": "MgFe3B2",
+    "tau_valence": 0.3333333333333333,
+    "n_elements": 3,
+    "n_atoms": 6,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Mg3 Fe1 B2",
+    "reduced_formula": "Mg3FeB2",
+    "tau_valence": 0.3333333333333333,
+    "n_elements": 3,
+    "n_atoms": 6,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca1 Al1 Fe1",
+    "reduced_formula": "CaAlFe",
+    "tau_valence": 0.3333333333333333,
+    "n_elements": 3,
+    "n_atoms": 3,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca1 Al2 Fe3",
+    "reduced_formula": "CaAl2Fe3",
+    "tau_valence": 0.3333333333333333,
+    "n_elements": 3,
+    "n_atoms": 6,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca3 Al2 Fe1",
+    "reduced_formula": "Ca3Al2Fe",
+    "tau_valence": 0.3333333333333333,
+    "n_elements": 3,
+    "n_atoms": 6,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca1 Fe1 B1",
+    "reduced_formula": "CaFeB",
+    "tau_valence": 0.3333333333333333,
+    "n_elements": 3,
+    "n_atoms": 3,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca1 Fe3 B2",
+    "reduced_formula": "CaFe3B2",
+    "tau_valence": 0.3333333333333333,
+    "n_elements": 3,
+    "n_atoms": 6,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca3 Fe1 B2",
+    "reduced_formula": "Ca3FeB2",
+    "tau_valence": 0.3333333333333333,
+    "n_elements": 3,
+    "n_atoms": 6,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li1 Ca3 Mg1 Al1",
+    "reduced_formula": "LiCa3MgAl",
+    "tau_valence": 0.3333333333333333,
+    "n_elements": 4,
+    "n_atoms": 6,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li1 Ca2 Mg2 Al1",
+    "reduced_formula": "LiCa2Mg2Al",
+    "tau_valence": 0.3333333333333333,
+    "n_elements": 4,
+    "n_atoms": 6,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li1 Ca1 Mg3 Al1",
+    "reduced_formula": "LiCaMg3Al",
+    "tau_valence": 0.3333333333333333,
+    "n_elements": 4,
+    "n_atoms": 6,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li1 Mg1 Al1 Fe3",
+    "reduced_formula": "LiMgAlFe3",
+    "tau_valence": 0.3333333333333333,
+    "n_elements": 4,
+    "n_atoms": 6,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li1 Mg2 Al1 Fe2",
+    "reduced_formula": "LiMg2AlFe2",
+    "tau_valence": 0.3333333333333333,
+    "n_elements": 4,
+    "n_atoms": 6,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li1 Mg3 Al1 Fe1",
+    "reduced_formula": "LiMg3AlFe",
+    "tau_valence": 0.3333333333333333,
+    "n_elements": 4,
+    "n_atoms": 6,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li2 Ca1 Mg1 Fe2",
+    "reduced_formula": "Li2CaMgFe2",
+    "tau_valence": 0.3333333333333333,
+    "n_elements": 4,
+    "n_atoms": 6,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li2 Ca2 Mg1 Fe1",
+    "reduced_formula": "Li2Ca2MgFe",
+    "tau_valence": 0.3333333333333333,
+    "n_elements": 4,
+    "n_atoms": 6,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li2 Ca1 Mg2 Fe1",
+    "reduced_formula": "Li2CaMg2Fe",
+    "tau_valence": 0.3333333333333333,
+    "n_elements": 4,
+    "n_atoms": 6,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li1 Ca3 Mg1 B1",
+    "reduced_formula": "LiCa3MgB",
+    "tau_valence": 0.3333333333333333,
+    "n_elements": 4,
+    "n_atoms": 6,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li1 Ca2 Mg2 B1",
+    "reduced_formula": "LiCa2Mg2B",
+    "tau_valence": 0.3333333333333333,
+    "n_elements": 4,
+    "n_atoms": 6,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li1 Ca1 Mg3 B1",
+    "reduced_formula": "LiCaMg3B",
+    "tau_valence": 0.3333333333333333,
+    "n_elements": 4,
+    "n_atoms": 6,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li1 Mg1 Fe3 B1",
+    "reduced_formula": "LiMgFe3B",
+    "tau_valence": 0.3333333333333333,
+    "n_elements": 4,
+    "n_atoms": 6,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li1 Mg2 Fe2 B1",
+    "reduced_formula": "LiMg2Fe2B",
+    "tau_valence": 0.3333333333333333,
+    "n_elements": 4,
+    "n_atoms": 6,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li1 Mg3 Fe1 B1",
+    "reduced_formula": "LiMg3FeB",
+    "tau_valence": 0.3333333333333333,
+    "n_elements": 4,
+    "n_atoms": 6,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li1 Ca1 Al1 Fe3",
+    "reduced_formula": "LiCaAlFe3",
+    "tau_valence": 0.3333333333333333,
+    "n_elements": 4,
+    "n_atoms": 6,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li1 Ca2 Al1 Fe2",
+    "reduced_formula": "LiCa2AlFe2",
+    "tau_valence": 0.3333333333333333,
+    "n_elements": 4,
+    "n_atoms": 6,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li1 Ca3 Al1 Fe1",
+    "reduced_formula": "LiCa3AlFe",
+    "tau_valence": 0.3333333333333333,
+    "n_elements": 4,
+    "n_atoms": 6,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li1 Ca1 Fe3 B1",
+    "reduced_formula": "LiCaFe3B",
+    "tau_valence": 0.3333333333333333,
+    "n_elements": 4,
+    "n_atoms": 6,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li1 Ca2 Fe2 B1",
+    "reduced_formula": "LiCa2Fe2B",
+    "tau_valence": 0.3333333333333333,
+    "n_elements": 4,
+    "n_atoms": 6,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li1 Ca3 Fe1 B1",
+    "reduced_formula": "LiCa3FeB",
+    "tau_valence": 0.3333333333333333,
+    "n_elements": 4,
+    "n_atoms": 6,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca1 Mg1 Al2 Fe2",
+    "reduced_formula": "CaMg(AlFe)2",
+    "tau_valence": 0.3333333333333333,
+    "n_elements": 4,
+    "n_atoms": 6,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca2 Mg1 Al2 Fe1",
+    "reduced_formula": "Ca2MgAl2Fe",
+    "tau_valence": 0.3333333333333333,
+    "n_elements": 4,
+    "n_atoms": 6,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca1 Mg2 Al2 Fe1",
+    "reduced_formula": "CaMg2Al2Fe",
+    "tau_valence": 0.3333333333333333,
+    "n_elements": 4,
+    "n_atoms": 6,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca3 Mg1 Al1 B1",
+    "reduced_formula": "Ca3MgAlB",
+    "tau_valence": 0.3333333333333333,
+    "n_elements": 4,
+    "n_atoms": 6,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca2 Mg2 Al1 B1",
+    "reduced_formula": "Ca2Mg2AlB",
+    "tau_valence": 0.3333333333333333,
+    "n_elements": 4,
+    "n_atoms": 6,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca1 Mg3 Al1 B1",
+    "reduced_formula": "CaMg3AlB",
+    "tau_valence": 0.3333333333333333,
+    "n_elements": 4,
+    "n_atoms": 6,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Mg1 Al1 Fe3 B1",
+    "reduced_formula": "MgAlFe3B",
+    "tau_valence": 0.3333333333333333,
+    "n_elements": 4,
+    "n_atoms": 6,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Mg2 Al1 Fe2 B1",
+    "reduced_formula": "Mg2AlFe2B",
+    "tau_valence": 0.3333333333333333,
+    "n_elements": 4,
+    "n_atoms": 6,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Mg3 Al1 Fe1 B1",
+    "reduced_formula": "Mg3AlFeB",
+    "tau_valence": 0.3333333333333333,
+    "n_elements": 4,
+    "n_atoms": 6,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca1 Mg1 Fe2 B2",
+    "reduced_formula": "CaMg(FeB)2",
+    "tau_valence": 0.3333333333333333,
+    "n_elements": 4,
+    "n_atoms": 6,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca2 Mg1 Fe1 B2",
+    "reduced_formula": "Ca2MgFeB2",
+    "tau_valence": 0.3333333333333333,
+    "n_elements": 4,
+    "n_atoms": 6,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca1 Mg2 Fe1 B2",
+    "reduced_formula": "CaMg2FeB2",
+    "tau_valence": 0.3333333333333333,
+    "n_elements": 4,
+    "n_atoms": 6,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca1 Al1 Fe3 B1",
+    "reduced_formula": "CaAlFe3B",
+    "tau_valence": 0.3333333333333333,
+    "n_elements": 4,
+    "n_atoms": 6,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca2 Al1 Fe2 B1",
+    "reduced_formula": "Ca2AlFe2B",
+    "tau_valence": 0.3333333333333333,
+    "n_elements": 4,
+    "n_atoms": 6,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca3 Al1 Fe1 B1",
+    "reduced_formula": "Ca3AlFeB",
+    "tau_valence": 0.3333333333333333,
+    "n_elements": 4,
+    "n_atoms": 6,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li3 Mg5",
+    "reduced_formula": "Li3Mg5",
+    "tau_valence": 0.375,
+    "n_elements": 2,
+    "n_atoms": 8,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li3 Ca5",
+    "reduced_formula": "Li3Ca5",
+    "tau_valence": 0.375,
+    "n_elements": 2,
+    "n_atoms": 8,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li3 Fe5",
+    "reduced_formula": "Li3Fe5",
+    "tau_valence": 0.375,
+    "n_elements": 2,
+    "n_atoms": 8,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Mg5 Al3",
+    "reduced_formula": "Mg5Al3",
+    "tau_valence": 0.375,
+    "n_elements": 2,
+    "n_atoms": 8,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Mg5 B3",
+    "reduced_formula": "Mg5B3",
+    "tau_valence": 0.375,
+    "n_elements": 2,
+    "n_atoms": 8,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca5 Al3",
+    "reduced_formula": "Ca5Al3",
+    "tau_valence": 0.375,
+    "n_elements": 2,
+    "n_atoms": 8,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Al3 Fe5",
+    "reduced_formula": "Al3Fe5",
+    "tau_valence": 0.375,
+    "n_elements": 2,
+    "n_atoms": 8,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca5 B3",
+    "reduced_formula": "Ca5B3",
+    "tau_valence": 0.375,
+    "n_elements": 2,
+    "n_atoms": 8,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Fe5 B3",
+    "reduced_formula": "Fe5B3",
+    "tau_valence": 0.375,
+    "n_elements": 2,
+    "n_atoms": 8,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li3 Ca3 Mg2",
+    "reduced_formula": "Li3Ca3Mg2",
+    "tau_valence": 0.375,
+    "n_elements": 3,
+    "n_atoms": 8,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li3 Ca2 Mg3",
+    "reduced_formula": "Li3Ca2Mg3",
+    "tau_valence": 0.375,
+    "n_elements": 3,
+    "n_atoms": 8,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li3 Mg2 Fe3",
+    "reduced_formula": "Li3Mg2Fe3",
+    "tau_valence": 0.375,
+    "n_elements": 3,
+    "n_atoms": 8,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li3 Mg3 Fe2",
+    "reduced_formula": "Li3Mg3Fe2",
+    "tau_valence": 0.375,
+    "n_elements": 3,
+    "n_atoms": 8,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li3 Ca2 Fe3",
+    "reduced_formula": "Li3Ca2Fe3",
+    "tau_valence": 0.375,
+    "n_elements": 3,
+    "n_atoms": 8,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li3 Ca3 Fe2",
+    "reduced_formula": "Li3Ca3Fe2",
+    "tau_valence": 0.375,
+    "n_elements": 3,
+    "n_atoms": 8,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca3 Mg2 Al3",
+    "reduced_formula": "Ca3Mg2Al3",
+    "tau_valence": 0.375,
+    "n_elements": 3,
+    "n_atoms": 8,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca2 Mg3 Al3",
+    "reduced_formula": "Ca2(MgAl)3",
+    "tau_valence": 0.375,
+    "n_elements": 3,
+    "n_atoms": 8,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Mg2 Al3 Fe3",
+    "reduced_formula": "Mg2(AlFe)3",
+    "tau_valence": 0.375,
+    "n_elements": 3,
+    "n_atoms": 8,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Mg3 Al3 Fe2",
+    "reduced_formula": "Mg3Al3Fe2",
+    "tau_valence": 0.375,
+    "n_elements": 3,
+    "n_atoms": 8,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca3 Mg2 B3",
+    "reduced_formula": "Ca3Mg2B3",
+    "tau_valence": 0.375,
+    "n_elements": 3,
+    "n_atoms": 8,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca2 Mg3 B3",
+    "reduced_formula": "Ca2(MgB)3",
+    "tau_valence": 0.375,
+    "n_elements": 3,
+    "n_atoms": 8,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Mg2 Fe3 B3",
+    "reduced_formula": "Mg2(FeB)3",
+    "tau_valence": 0.375,
+    "n_elements": 3,
+    "n_atoms": 8,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Mg3 Fe2 B3",
+    "reduced_formula": "Mg3Fe2B3",
+    "tau_valence": 0.375,
+    "n_elements": 3,
+    "n_atoms": 8,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca2 Al3 Fe3",
+    "reduced_formula": "Ca2(AlFe)3",
+    "tau_valence": 0.375,
+    "n_elements": 3,
+    "n_atoms": 8,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca3 Al3 Fe2",
+    "reduced_formula": "Ca3Al3Fe2",
+    "tau_valence": 0.375,
+    "n_elements": 3,
+    "n_atoms": 8,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca2 Fe3 B3",
+    "reduced_formula": "Ca2(FeB)3",
+    "tau_valence": 0.375,
+    "n_elements": 3,
+    "n_atoms": 8,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca3 Fe2 B3",
+    "reduced_formula": "Ca3Fe2B3",
+    "tau_valence": 0.375,
+    "n_elements": 3,
+    "n_atoms": 8,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li1 Ca3 Mg2 Al2",
+    "reduced_formula": "LiCa3(MgAl)2",
+    "tau_valence": 0.375,
+    "n_elements": 4,
+    "n_atoms": 8,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li1 Ca2 Mg3 Al2",
+    "reduced_formula": "LiCa2Mg3Al2",
+    "tau_valence": 0.375,
+    "n_elements": 4,
+    "n_atoms": 8,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li2 Ca3 Mg2 Al1",
+    "reduced_formula": "Li2Ca3Mg2Al",
+    "tau_valence": 0.375,
+    "n_elements": 4,
+    "n_atoms": 8,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li2 Ca2 Mg3 Al1",
+    "reduced_formula": "Li2Ca2Mg3Al",
+    "tau_valence": 0.375,
+    "n_elements": 4,
+    "n_atoms": 8,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li1 Mg2 Al2 Fe3",
+    "reduced_formula": "LiMg2Al2Fe3",
+    "tau_valence": 0.375,
+    "n_elements": 4,
+    "n_atoms": 8,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li1 Mg3 Al2 Fe2",
+    "reduced_formula": "LiMg3(AlFe)2",
+    "tau_valence": 0.375,
+    "n_elements": 4,
+    "n_atoms": 8,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li2 Mg2 Al1 Fe3",
+    "reduced_formula": "Li2Mg2AlFe3",
+    "tau_valence": 0.375,
+    "n_elements": 4,
+    "n_atoms": 8,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li2 Mg3 Al1 Fe2",
+    "reduced_formula": "Li2Mg3AlFe2",
+    "tau_valence": 0.375,
+    "n_elements": 4,
+    "n_atoms": 8,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li3 Ca1 Mg1 Fe3",
+    "reduced_formula": "Li3CaMgFe3",
+    "tau_valence": 0.375,
+    "n_elements": 4,
+    "n_atoms": 8,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li3 Ca2 Mg1 Fe2",
+    "reduced_formula": "Li3Ca2MgFe2",
+    "tau_valence": 0.375,
+    "n_elements": 4,
+    "n_atoms": 8,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li3 Ca3 Mg1 Fe1",
+    "reduced_formula": "Li3Ca3MgFe",
+    "tau_valence": 0.375,
+    "n_elements": 4,
+    "n_atoms": 8,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li3 Ca1 Mg2 Fe2",
+    "reduced_formula": "Li3Ca(MgFe)2",
+    "tau_valence": 0.375,
+    "n_elements": 4,
+    "n_atoms": 8,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li3 Ca2 Mg2 Fe1",
+    "reduced_formula": "Li3Ca2Mg2Fe",
+    "tau_valence": 0.375,
+    "n_elements": 4,
+    "n_atoms": 8,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li3 Ca1 Mg3 Fe1",
+    "reduced_formula": "Li3CaMg3Fe",
+    "tau_valence": 0.375,
+    "n_elements": 4,
+    "n_atoms": 8,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li1 Ca3 Mg2 B2",
+    "reduced_formula": "LiCa3(MgB)2",
+    "tau_valence": 0.375,
+    "n_elements": 4,
+    "n_atoms": 8,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li1 Ca2 Mg3 B2",
+    "reduced_formula": "LiCa2Mg3B2",
+    "tau_valence": 0.375,
+    "n_elements": 4,
+    "n_atoms": 8,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li2 Ca3 Mg2 B1",
+    "reduced_formula": "Li2Ca3Mg2B",
+    "tau_valence": 0.375,
+    "n_elements": 4,
+    "n_atoms": 8,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li2 Ca2 Mg3 B1",
+    "reduced_formula": "Li2Ca2Mg3B",
+    "tau_valence": 0.375,
+    "n_elements": 4,
+    "n_atoms": 8,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li1 Mg2 Fe3 B2",
+    "reduced_formula": "LiMg2Fe3B2",
+    "tau_valence": 0.375,
+    "n_elements": 4,
+    "n_atoms": 8,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li1 Mg3 Fe2 B2",
+    "reduced_formula": "LiMg3(FeB)2",
+    "tau_valence": 0.375,
+    "n_elements": 4,
+    "n_atoms": 8,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li2 Mg2 Fe3 B1",
+    "reduced_formula": "Li2Mg2Fe3B",
+    "tau_valence": 0.375,
+    "n_elements": 4,
+    "n_atoms": 8,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li2 Mg3 Fe2 B1",
+    "reduced_formula": "Li2Mg3Fe2B",
+    "tau_valence": 0.375,
+    "n_elements": 4,
+    "n_atoms": 8,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li1 Ca2 Al2 Fe3",
+    "reduced_formula": "LiCa2Al2Fe3",
+    "tau_valence": 0.375,
+    "n_elements": 4,
+    "n_atoms": 8,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li1 Ca3 Al2 Fe2",
+    "reduced_formula": "LiCa3(AlFe)2",
+    "tau_valence": 0.375,
+    "n_elements": 4,
+    "n_atoms": 8,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li2 Ca2 Al1 Fe3",
+    "reduced_formula": "Li2Ca2AlFe3",
+    "tau_valence": 0.375,
+    "n_elements": 4,
+    "n_atoms": 8,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li2 Ca3 Al1 Fe2",
+    "reduced_formula": "Li2Ca3AlFe2",
+    "tau_valence": 0.375,
+    "n_elements": 4,
+    "n_atoms": 8,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li1 Ca2 Fe3 B2",
+    "reduced_formula": "LiCa2Fe3B2",
+    "tau_valence": 0.375,
+    "n_elements": 4,
+    "n_atoms": 8,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li1 Ca3 Fe2 B2",
+    "reduced_formula": "LiCa3(FeB)2",
+    "tau_valence": 0.375,
+    "n_elements": 4,
+    "n_atoms": 8,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li2 Ca2 Fe3 B1",
+    "reduced_formula": "Li2Ca2Fe3B",
+    "tau_valence": 0.375,
+    "n_elements": 4,
+    "n_atoms": 8,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li2 Ca3 Fe2 B1",
+    "reduced_formula": "Li2Ca3Fe2B",
+    "tau_valence": 0.375,
+    "n_elements": 4,
+    "n_atoms": 8,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca1 Mg1 Al3 Fe3",
+    "reduced_formula": "CaMg(AlFe)3",
+    "tau_valence": 0.375,
+    "n_elements": 4,
+    "n_atoms": 8,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca2 Mg1 Al3 Fe2",
+    "reduced_formula": "Ca2MgAl3Fe2",
+    "tau_valence": 0.375,
+    "n_elements": 4,
+    "n_atoms": 8,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca3 Mg1 Al3 Fe1",
+    "reduced_formula": "Ca3MgAl3Fe",
+    "tau_valence": 0.375,
+    "n_elements": 4,
+    "n_atoms": 8,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca1 Mg2 Al3 Fe2",
+    "reduced_formula": "CaMg2Al3Fe2",
+    "tau_valence": 0.375,
+    "n_elements": 4,
+    "n_atoms": 8,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca2 Mg2 Al3 Fe1",
+    "reduced_formula": "Ca2Mg2Al3Fe",
+    "tau_valence": 0.375,
+    "n_elements": 4,
+    "n_atoms": 8,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca1 Mg3 Al3 Fe1",
+    "reduced_formula": "CaMg3Al3Fe",
+    "tau_valence": 0.375,
+    "n_elements": 4,
+    "n_atoms": 8,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca3 Mg2 Al1 B2",
+    "reduced_formula": "Ca3Mg2AlB2",
+    "tau_valence": 0.375,
+    "n_elements": 4,
+    "n_atoms": 8,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca3 Mg2 Al2 B1",
+    "reduced_formula": "Ca3Mg2Al2B",
+    "tau_valence": 0.375,
+    "n_elements": 4,
+    "n_atoms": 8,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca2 Mg3 Al1 B2",
+    "reduced_formula": "Ca2Mg3AlB2",
+    "tau_valence": 0.375,
+    "n_elements": 4,
+    "n_atoms": 8,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca2 Mg3 Al2 B1",
+    "reduced_formula": "Ca2Mg3Al2B",
+    "tau_valence": 0.375,
+    "n_elements": 4,
+    "n_atoms": 8,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Mg2 Al1 Fe3 B2",
+    "reduced_formula": "Mg2AlFe3B2",
+    "tau_valence": 0.375,
+    "n_elements": 4,
+    "n_atoms": 8,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Mg2 Al2 Fe3 B1",
+    "reduced_formula": "Mg2Al2Fe3B",
+    "tau_valence": 0.375,
+    "n_elements": 4,
+    "n_atoms": 8,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Mg3 Al1 Fe2 B2",
+    "reduced_formula": "Mg3Al(FeB)2",
+    "tau_valence": 0.375,
+    "n_elements": 4,
+    "n_atoms": 8,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Mg3 Al2 Fe2 B1",
+    "reduced_formula": "Mg3Al2Fe2B",
+    "tau_valence": 0.375,
+    "n_elements": 4,
+    "n_atoms": 8,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca1 Mg1 Fe3 B3",
+    "reduced_formula": "CaMg(FeB)3",
+    "tau_valence": 0.375,
+    "n_elements": 4,
+    "n_atoms": 8,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca2 Mg1 Fe2 B3",
+    "reduced_formula": "Ca2MgFe2B3",
+    "tau_valence": 0.375,
+    "n_elements": 4,
+    "n_atoms": 8,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca3 Mg1 Fe1 B3",
+    "reduced_formula": "Ca3MgFeB3",
+    "tau_valence": 0.375,
+    "n_elements": 4,
+    "n_atoms": 8,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca1 Mg2 Fe2 B3",
+    "reduced_formula": "CaMg2Fe2B3",
+    "tau_valence": 0.375,
+    "n_elements": 4,
+    "n_atoms": 8,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca2 Mg2 Fe1 B3",
+    "reduced_formula": "Ca2Mg2FeB3",
+    "tau_valence": 0.375,
+    "n_elements": 4,
+    "n_atoms": 8,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca1 Mg3 Fe1 B3",
+    "reduced_formula": "CaMg3FeB3",
+    "tau_valence": 0.375,
+    "n_elements": 4,
+    "n_atoms": 8,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca2 Al1 Fe3 B2",
+    "reduced_formula": "Ca2AlFe3B2",
+    "tau_valence": 0.375,
+    "n_elements": 4,
+    "n_atoms": 8,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca3 Al1 Fe2 B2",
+    "reduced_formula": "Ca3Al(FeB)2",
+    "tau_valence": 0.375,
+    "n_elements": 4,
+    "n_atoms": 8,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca2 Al2 Fe3 B1",
+    "reduced_formula": "Ca2Al2Fe3B",
+    "tau_valence": 0.375,
+    "n_elements": 4,
+    "n_atoms": 8,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Ca3 Al2 Fe2 B1",
+    "reduced_formula": "Ca3Al2Fe2B",
+    "tau_valence": 0.375,
+    "n_elements": 4,
+    "n_atoms": 8,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li2 Mg3",
+    "reduced_formula": "Li2Mg3",
+    "tau_valence": 0.4,
+    "n_elements": 2,
+    "n_atoms": 5,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li2 Ca3",
+    "reduced_formula": "Li2Ca3",
+    "tau_valence": 0.4,
+    "n_elements": 2,
+    "n_atoms": 5,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Li2 Fe3",
+    "reduced_formula": "Li2Fe3",
+    "tau_valence": 0.4,
+    "n_elements": 2,
+    "n_atoms": 5,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  },
+  {
+    "formula": "Mg3 Al2",
+    "reduced_formula": "Mg3Al2",
+    "tau_valence": 0.4,
+    "n_elements": 2,
+    "n_atoms": 5,
+    "strategy": "split_octet",
+    "scalability": 1.0
+  }
+]

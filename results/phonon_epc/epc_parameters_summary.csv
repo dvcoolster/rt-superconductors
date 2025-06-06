@@ -1,0 +1,5 @@
+Structure,Mg_fraction,Fe_fraction,lambda_ep,omega_log_cm,omega_log_K,Tc_McMillan_K,Tc_AllenDynes_K,Coupling_regime,N_EF
+MgFe_cubic,0.500,0.500,0.003,437.8,630.4,1877892.76,12759313.02,Weak coupling,5.50
+Mg2Fe_layered,0.670,0.330,0.002,421.5,607.0,1766960.90,12119362.25,Weak coupling,4.48
+MgFe2_ordered,0.330,0.670,0.003,454.0,653.8,1986178.81,13387990.45,Weak coupling,6.52
+Mg3Fe_intermetallic,0.750,0.250,0.002,413.9,596.0,1713852.45,11814286.04,Weak coupling,4.00

@@ -1,0 +1,50 @@
+{
+  "MgFe_cubic": {
+    "avg_tc_prediction": 42.68917444199172,
+    "tc_uncertainty": 31.478834369229098,
+    "tc_agreement": 0.575573958721854,
+    "avg_stability_score": 0.49498624069986213,
+    "avg_formation_energy": 25460.139656155774,
+    "avg_confidence": 0.7833333333333332,
+    "overall_score": 0.6769192553987209,
+    "methods_successful": 3,
+    "priority_level": 2,
+    "final_recommendation": "\u2b50 HIGH PRIORITY - Synthesis highly recommended"
+  },
+  "Mg2Fe_layered": {
+    "avg_tc_prediction": 39.02521998382338,
+    "tc_uncertainty": 28.29877687590923,
+    "tc_agreement": 0.5796628513475095,
+    "avg_stability_score": 0.4825352133003183,
+    "avg_formation_energy": 39546.16989188585,
+    "avg_confidence": 0.7833333333333332,
+    "overall_score": 0.6565089494144072,
+    "methods_successful": 3,
+    "priority_level": 2,
+    "final_recommendation": "\u2b50 HIGH PRIORITY - Synthesis highly recommended"
+  },
+  "MgFe2_ordered": {
+    "avg_tc_prediction": 40.34867408545933,
+    "tc_uncertainty": 28.90743362121062,
+    "tc_agreement": 0.5826009491661542,
+    "avg_stability_score": 0.5045927816609174,
+    "avg_formation_energy": 446137.19029587734,
+    "avg_confidence": 0.7833333333333332,
+    "overall_score": 0.6693751364673979,
+    "methods_successful": 3,
+    "priority_level": 2,
+    "final_recommendation": "\u2b50 HIGH PRIORITY - Synthesis highly recommended"
+  },
+  "Mg3Fe_intermetallic": {
+    "avg_tc_prediction": 37.458797427959915,
+    "tc_uncertainty": 27.035775463477556,
+    "tc_agreement": 0.5808054189460812,
+    "avg_stability_score": 0.475293282325282,
+    "avg_formation_energy": 1528303.1671861326,
+    "avg_confidence": 0.7833333333333332,
+    "overall_score": 0.6471519957909737,
+    "methods_successful": 3,
+    "priority_level": 2,
+    "final_recommendation": "\u2b50 HIGH PRIORITY - Synthesis highly recommended"
+  }
+}

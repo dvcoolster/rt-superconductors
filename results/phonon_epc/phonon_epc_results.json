@@ -1,0 +1,110 @@
+{
+  "MgFe_cubic": {
+    "composition": {
+      "mg_frac": 0.5,
+      "fe_frac": 0.5
+    },
+    "phonon": {
+      "avg_debye": 425.0,
+      "omega_avg": 453.1043051192001,
+      "omega_log": 452.1611958535223,
+      "omega_sq_avg": 206021.4647449958
+    },
+    "epc": {
+      "lambda_ep": 0.0027581006650462046,
+      "omega_log_sc": 437.76487365462583,
+      "n_ef": 5.5,
+      "mu_star": 0.13
+    },
+    "tc": {
+      "tc_mcmillan": 1877892.7627838044,
+      "tc_allen_dynes": 12759313.018852238,
+      "tc_strong_coupling": 0,
+      "tc_bcs_simple": 0,
+      "lambda_ep": 0.0027581006650462046,
+      "omega_log_k": 630.3814180626612,
+      "coupling_regime": "Weak coupling"
+    }
+  },
+  "Mg2Fe_layered": {
+    "composition": {
+      "mg_frac": 0.67,
+      "fe_frac": 0.33
+    },
+    "phonon": {
+      "avg_debye": 409.70000000000005,
+      "omega_avg": 436.75338267994795,
+      "omega_log": 435.8297887344089,
+      "omega_sq_avg": 191428.2502085034
+    },
+    "epc": {
+      "lambda_ep": 0.0024132098012135846,
+      "omega_log_sc": 421.5349836571006,
+      "n_ef": 4.48,
+      "mu_star": 0.13
+    },
+    "tc": {
+      "tc_mcmillan": 1766960.9047699955,
+      "tc_allen_dynes": 12119362.254744371,
+      "tc_strong_coupling": 0,
+      "tc_bcs_simple": 0,
+      "lambda_ep": 0.0024132098012135846,
+      "omega_log_k": 607.0103764662249,
+      "coupling_regime": "Weak coupling"
+    }
+  },
+  "MgFe2_ordered": {
+    "composition": {
+      "mg_frac": 0.33,
+      "fe_frac": 0.67
+    },
+    "phonon": {
+      "avg_debye": 440.30000000000007,
+      "omega_avg": 469.455238038985,
+      "omega_log": 468.4926245078777,
+      "omega_sq_avg": 221150.68632105598
+    },
+    "epc": {
+      "lambda_ep": 0.0030500794671318335,
+      "omega_log_sc": 453.996567389338,
+      "n_ef": 6.5200000000000005,
+      "mu_star": 0.13
+    },
+    "tc": {
+      "tc_mcmillan": 1986178.8085794402,
+      "tc_allen_dynes": 13387990.454372408,
+      "tc_strong_coupling": 0,
+      "tc_bcs_simple": 0,
+      "lambda_ep": 0.0030500794671318335,
+      "omega_log_k": 653.7550570406466,
+      "coupling_regime": "Weak coupling"
+    }
+  },
+  "Mg3Fe_intermetallic": {
+    "composition": {
+      "mg_frac": 0.75,
+      "fe_frac": 0.25
+    },
+    "phonon": {
+      "avg_debye": 402.5,
+      "omega_avg": 429.0588349113357,
+      "omega_log": 428.1444288283593,
+      "omega_sq_avg": 184746.3246967526
+    },
+    "epc": {
+      "lambda_ep": 0.002229931306325709,
+      "omega_log_sc": 413.8980675403243,
+      "n_ef": 4.0,
+      "mu_star": 0.13
+    },
+    "tc": {
+      "tc_mcmillan": 1713852.446127565,
+      "tc_allen_dynes": 11814286.044567142,
+      "tc_strong_coupling": 0,
+      "tc_bcs_simple": 0,
+      "lambda_ep": 0.002229931306325709,
+      "omega_log_k": 596.0132172580669,
+      "coupling_regime": "Weak coupling"
+    }
+  }
+}
