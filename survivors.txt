@@ -48,4 +48,3 @@ BeC4H3
 BeC4H4
 BeC4H5
 BeC4H6
-xtbopt

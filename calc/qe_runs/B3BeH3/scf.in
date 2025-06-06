@@ -31,8 +31,8 @@
 /
 
 ATOMIC_SPECIES
-B     10.810 B.pbe-n-rrkjus_psl.1.0.0.UPF
 H      1.008 H.pbe-rrkjus_psl.1.0.0.UPF
+B     10.810 B.pbe-n-rrkjus_psl.1.0.0.UPF
 Be     9.010 Be.pbe-n-rrkjus_psl.1.0.0.UPF
 
 ATOMIC_POSITIONS angstrom
