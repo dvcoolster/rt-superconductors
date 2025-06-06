@@ -1,0 +1,8 @@
+&INPUTPH
+  prefix = 'YH9',
+  outdir = '../tmp/',
+  fildyn = 'YH9.dyn0',
+  tr2_ph = 1.0d-14,
+  ldisp  = .false.,
+  nq1 = 1, nq2 = 1, nq3 = 1,
+ / 

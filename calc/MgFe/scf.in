@@ -1,0 +1,30 @@
+&CONTROL
+  calculation = 'scf',
+  prefix      = 'MgFe',
+  outdir      = './tmp/',
+  pseudo_dir  = '../pseudos/',
+  verbosity   = 'high',
+ /
+&SYSTEM
+  ibrav = 0, nat = 2, ntyp = 2,
+  ecutwfc = 80, ecutrho = 640,
+  nspin = 2,
+  starting_magnetization(1) = 0.0,
+  starting_magnetization(2) = 0.3,
+ /
+&ELECTRONS
+  conv_thr = 1.0d-8,
+  mixing_beta = 0.3,
+ /
+ATOMIC_SPECIES
+  Mg  24.305  Mg.pbe-nspn-rrkjus_psl.1.0.0.UPF
+  Fe  55.845  Fe.pbe-spn-rrkjus_psl.1.0.0.UPF
+CELL_PARAMETERS {angstrom}
+  4.0 0 0
+  0 4.0 0
+  0 0 4.0
+ATOMIC_POSITIONS {crystal}
+  Mg 0.000 0.000 0.000
+  Fe 0.500 0.500 0.500
+K_POINTS {automatic}
+  16 16 16  0 0 0 

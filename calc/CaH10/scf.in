@@ -1,0 +1,36 @@
+&CONTROL
+  calculation = 'scf',
+  prefix      = 'CaH10',
+  outdir      = './tmp/',
+  pseudo_dir  = '../pseudos/',
+  verbosity   = 'high',
+ /
+&SYSTEM
+  ibrav = 0, nat = 11, ntyp = 2,
+  ecutwfc = 90, ecutrho = 720,
+ /
+&ELECTRONS
+  conv_thr = 1.0d-8,
+  mixing_beta = 0.3,
+ /
+ATOMIC_SPECIES
+  Ca  40.078  Ca.pbe-spn-rrkjus_psl.1.0.0.UPF
+  H    1.008  H.pbe-rrkjus_psl.1.0.0.UPF
+CELL_PARAMETERS {angstrom}
+  5.25 0 0
+  0 5.25 0
+  0 0 7.89
+ATOMIC_POSITIONS {crystal}
+  Ca 0.000 0.000 0.000
+  H  0.200 0.200 0.150
+  H  0.800 0.200 0.150
+  H  0.200 0.800 0.150
+  H  0.800 0.800 0.150
+  H  0.200 0.200 0.850
+  H  0.800 0.200 0.850
+  H  0.200 0.800 0.850
+  H  0.800 0.800 0.850
+  H  0.500 0.500 0.500
+  H  0.000 0.500 0.500
+K_POINTS {automatic}
+  10 10 8  0 0 0 

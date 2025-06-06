@@ -1,0 +1,5 @@
+sample_id,pressure_GPa,onset_Tc_K,zero_resist_Tc_K,RRR,critical_field_T,Hc1_T,Hc2_T,lambda_theory,omega_log_theory,synthesis_method,synthesis_temp_K,synthesis_time_h,purity_percent,crystal_structure,lattice_param_a,lattice_param_c,resistivity_300K_ohm_cm,resistivity_4K_ohm_cm,magnetic_susceptibility,heat_capacity_jump,isotope_effect,pressure_dependence_dTc_dP,notes
+YH9_001,200.0,,,,,,,2.96,1020.5,DAC_laser_heating,1500,12,99.5,hexagonal,5.12,8.31,,,,,,,"High pressure synthesis required"
+ScH9_001,150.0,,,,,,,2.85,980.2,DAC_laser_heating,1400,10,99.8,hexagonal,4.98,8.15,,,,,,,"Promising RT candidate"
+CaH10_001,170.0,,,,,,,3.12,1100.8,DAC_laser_heating,1600,15,99.2,cubic,5.25,5.25,,,,,,,"Literature confirmed structure"
+MgFe_001,0.001,,,,,,,0.85,450.1,arc_melting,1800,6,99.9,cubic,4.0,4.0,,,,,,,"RBT prediction control" 

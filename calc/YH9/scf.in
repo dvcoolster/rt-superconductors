@@ -1,0 +1,35 @@
+&CONTROL
+  calculation = 'scf',
+  prefix      = 'YH9',
+  outdir      = './tmp/',
+  pseudo_dir  = '../pseudos/',
+  verbosity   = 'high',
+ /
+&SYSTEM
+  ibrav = 0, nat = 10, ntyp = 2,
+  ecutwfc = 100, ecutrho = 800,
+ /
+&ELECTRONS
+  conv_thr = 1.0d-8,
+  mixing_beta = 0.3,
+ /
+ATOMIC_SPECIES
+  Y  88.906  Y.pbe-spn-rrkjus_psl.1.0.0.UPF
+  H   1.008  H.pbe-rrkjus_psl.1.0.0.UPF
+CELL_PARAMETERS {angstrom}
+  5.12 0 0
+  0 5.12 0
+  0 0 8.31
+ATOMIC_POSITIONS {crystal}
+  Y 0.000 0.000 0.000
+  H 0.333 0.167 0.250
+  H 0.833 0.667 0.250
+  H 0.333 0.667 0.750
+  H 0.667 0.333 0.750
+  H 0.167 0.833 0.750
+  H 0.500 0.500 0.500
+  H 0.000 0.500 0.500
+  H 0.500 0.000 0.500
+  H 0.000 0.000 0.500
+K_POINTS {automatic}
+  12 12 8  0 0 0 

@@ -1,0 +1,68 @@
+[
+  {
+    "system": "CaH10",
+    "lambda": 3.12,
+    "omega_log_K": 1100.8,
+    "tc_allen_dynes_K": 295.1549863910699,
+    "coupling_regime": "Very strong",
+    "rt_potential": true,
+    "description": "Calcium hydride - confirmed structure",
+    "pressure_GPa": 170.0,
+    "structure": "Fm-3m cubic"
+  },
+  {
+    "system": "YH9",
+    "lambda": 2.96,
+    "omega_log_K": 1020.5,
+    "tc_allen_dynes_K": 264.40322105474274,
+    "coupling_regime": "Very strong",
+    "rt_potential": false,
+    "description": "Yttrium hydride - high Tc candidate",
+    "pressure_GPa": 200.0,
+    "structure": "P6/mmm hexagonal"
+  },
+  {
+    "system": "ScH9",
+    "lambda": 2.85,
+    "omega_log_K": 980.2,
+    "tc_allen_dynes_K": 247.6036718858739,
+    "coupling_regime": "Very strong",
+    "rt_potential": false,
+    "description": "Scandium hydride - experimental target",
+    "pressure_GPa": 150.0,
+    "structure": "P6/mmm hexagonal"
+  },
+  {
+    "system": "Li2BH12",
+    "lambda": 2.15,
+    "omega_log_K": 850.3,
+    "tc_allen_dynes_K": 174.05670495361701,
+    "coupling_regime": "Very strong",
+    "rt_potential": false,
+    "description": "Lithium borohydride - complex hydride",
+    "pressure_GPa": 50.0,
+    "structure": "P4/mmm tetragonal"
+  },
+  {
+    "system": "Be4CH10",
+    "lambda": 1.95,
+    "omega_log_K": 920.1,
+    "tc_allen_dynes_K": 173.25118783013602,
+    "coupling_regime": "Very strong",
+    "rt_potential": false,
+    "description": "Beryllium carbon hydride - novel structure",
+    "pressure_GPa": 100.0,
+    "structure": "I4/mmm tetragonal"
+  },
+  {
+    "system": "MgFe",
+    "lambda": 0.85,
+    "omega_log_K": 450.1,
+    "tc_allen_dynes_K": 27.8534086583037,
+    "coupling_regime": "Strong",
+    "rt_potential": false,
+    "description": "Magnesium iron - RBT prediction control",
+    "pressure_GPa": 0.001,
+    "structure": "Pm-3m cubic"
+  }
+]
