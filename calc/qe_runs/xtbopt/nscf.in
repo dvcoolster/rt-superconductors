@@ -1,0 +1,53 @@
+&CONTROL
+    calculation = 'nscf',
+    restart_mode = 'from_scratch',
+    prefix = 'xtbopt',
+    outdir = './tmp/',
+    pseudo_dir = '../../../pseudos/',
+    verbosity = 'high',
+    tprnfor = .true.,
+    tstress = .true.,
+/
+
+&SYSTEM
+    ibrav = 1,
+    A = 20.141137,
+    nat = 11,
+    ntyp = 3,
+    ecutwfc = 80,
+    ecutrho = 640,
+    occupations = 'smearing',
+    smearing = 'marzari-vanderbilt',
+    degauss = 0.02,
+    nbnd = 36,
+    input_dft = 'PBE',
+/
+
+&ELECTRONS
+    diagonalization = 'david',
+    mixing_mode = 'plain',
+    mixing_beta = 0.7,
+    conv_thr = 1.0d-8,
+    electron_maxstep = 200,
+/
+
+ATOMIC_SPECIES
+Be     9.010 Be.pbe-n-rrkjus_psl.1.0.0.UPF
+H      1.008 H.pbe-rrkjus_psl.1.0.0.UPF
+C     12.010 C.pbe-n-rrkjus_psl.1.0.0.UPF
+
+ATOMIC_POSITIONS angstrom
+Be      9.207521     9.229180     8.000000
+C       9.409845     9.286904     9.524567
+C       9.587336     9.338226    10.769752
+C       9.773161     9.393964    12.066863
+C       9.963410     9.458795    13.310920
+H      11.507845     8.436900    14.033597
+H      12.141137     8.000000    14.269825
+H      10.055772    11.274930    14.108012
+H      10.080594    12.033871    14.375649
+H       8.586532     8.652318    14.494812
+H       8.000000     8.308751    14.925978
+
+K_POINTS automatic
+4 4 4 0 0 0

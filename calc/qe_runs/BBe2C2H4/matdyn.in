@@ -1,0 +1,11 @@
+&INPUT
+    asr = 'crystal',
+    flfrc = 'BBe2C2H4.fc',
+    flfrq = 'BBe2C2H4.freq',
+    q_in_band_form = .true.,
+/
+4
+0.0 0.0 0.0 100
+0.5 0.0 0.0 100  
+0.5 0.5 0.0 100
+0.0 0.0 0.0 1

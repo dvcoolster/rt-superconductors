@@ -1,0 +1,11 @@
+&INPUT
+    asr = 'crystal',
+    flfrc = 'xtbopt.fc',
+    flfrq = 'xtbopt.freq',
+    q_in_band_form = .true.,
+/
+4
+0.0 0.0 0.0 100
+0.5 0.0 0.0 100  
+0.5 0.5 0.0 100
+0.0 0.0 0.0 1

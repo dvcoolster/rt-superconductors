@@ -1,0 +1,4 @@
+&INPUT
+    fildyn = 'xtbopt.dyn',
+    flfrc = 'xtbopt.fc',
+/

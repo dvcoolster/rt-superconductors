@@ -1,0 +1,9 @@
+Gamma-point phonon calculation for Be2C3H6
+&INPUTPH
+    tr2_ph = 1.0d-14,
+    prefix = 'Be2C3H6',
+    outdir = './tmp/',
+    alpha_mix(1) = 0.7,
+    fildyn = 'Be2C3H6.dyn',
+/
+0.0 0.0 0.0

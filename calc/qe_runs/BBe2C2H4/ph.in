@@ -1,0 +1,10 @@
+Full phonon calculation for BBe2C2H4
+&INPUTPH
+    tr2_ph = 1.0d-14,
+    prefix = 'BBe2C2H4',
+    outdir = './tmp/',
+    ldisp = .true.,
+    nq1 = 4, nq2 = 4, nq3 = 4,
+    alpha_mix(1) = 0.7,
+    fildyn = 'BBe2C2H4.dyn',
+/

@@ -1,0 +1,122 @@
+{
+  "YH9": {
+    "synthesis": {
+      "method": "Diamond anvil cell + laser heating",
+      "pressure_GPa": 200.0,
+      "temperature_K": 1509.2688055353906,
+      "duration_hours": 11.2781780275755,
+      "atmosphere": "Hydrogen gas"
+    },
+    "characterization": {
+      "resistivity_vs_T": "Required (1.5-300 K)",
+      "magnetic_susceptibility": "Required (Meissner effect)",
+      "heat_capacity": "Required (BCS jump)",
+      "isotope_effect": "Required (H/D substitution)",
+      "pressure_dependence": "Required (dTc/dP)"
+    },
+    "expected_results": {
+      "Tc_K": 899.7282827959114,
+      "lambda_theory": 3.0446120090033735,
+      "omega_log_theory": 3409.00856902352
+    },
+    "priority": "HIGH",
+    "estimated_cost_USD": 58685.361805341316,
+    "timeline_months": 17.725303051926517
+  },
+  "ScH9": {
+    "synthesis": {
+      "method": "Diamond anvil cell + laser heating",
+      "pressure_GPa": 150.0,
+      "temperature_K": 1518.360899491911,
+      "duration_hours": 8.628911340845137,
+      "atmosphere": "Hydrogen gas"
+    },
+    "characterization": {
+      "resistivity_vs_T": "Required (1.5-300 K)",
+      "magnetic_susceptibility": "Required (Meissner effect)",
+      "heat_capacity": "Required (BCS jump)",
+      "isotope_effect": "Required (H/D substitution)",
+      "pressure_dependence": "Required (dTc/dP)"
+    },
+    "expected_results": {
+      "Tc_K": 918.0077561403517,
+      "lambda_theory": 2.912498798720184,
+      "omega_log_theory": 3581.498565976743
+    },
+    "priority": "HIGH",
+    "estimated_cost_USD": 62914.66963417472,
+    "timeline_months": 14.874859612562757
+  },
+  "CaH10": {
+    "synthesis": {
+      "method": "Diamond anvil cell + laser heating",
+      "pressure_GPa": 170.0,
+      "temperature_K": 1559.2218542094022,
+      "duration_hours": 10.543671719895476,
+      "atmosphere": "Hydrogen gas"
+    },
+    "characterization": {
+      "resistivity_vs_T": "Required (1.5-300 K)",
+      "magnetic_susceptibility": "Required (Meissner effect)",
+      "heat_capacity": "Required (BCS jump)",
+      "isotope_effect": "Required (H/D substitution)",
+      "pressure_dependence": "Required (dTc/dP)"
+    },
+    "expected_results": {
+      "Tc_K": 997.0320886234957,
+      "lambda_theory": 3.1992915117356424,
+      "omega_log_theory": 3659.5957861962515
+    },
+    "priority": "HIGH",
+    "estimated_cost_USD": 67355.45426978906,
+    "timeline_months": 15.745332043563755
+  },
+  "Li2BH12": {
+    "synthesis": {
+      "method": "Diamond anvil cell + laser heating",
+      "pressure_GPa": 50.0,
+      "temperature_K": 1602.1085213483652,
+      "duration_hours": 10.268288155432014,
+      "atmosphere": "Hydrogen gas"
+    },
+    "characterization": {
+      "resistivity_vs_T": "Required (1.5-300 K)",
+      "magnetic_susceptibility": "Required (Meissner effect)",
+      "heat_capacity": "Required (BCS jump)",
+      "isotope_effect": "Required (H/D substitution)",
+      "pressure_dependence": "Required (dTc/dP)"
+    },
+    "expected_results": {
+      "Tc_K": 746.415532158722,
+      "lambda_theory": 2.1795096646875383,
+      "omega_log_theory": 3605.870624839496
+    },
+    "priority": "HIGH",
+    "estimated_cost_USD": 50365.61214788457,
+    "timeline_months": 15.693908019786077
+  },
+  "Be4CH10": {
+    "synthesis": {
+      "method": "Diamond anvil cell + laser heating",
+      "pressure_GPa": 100.0,
+      "temperature_K": 1515.8651626182618,
+      "duration_hours": 11.549738057758109,
+      "atmosphere": "Hydrogen gas"
+    },
+    "characterization": {
+      "resistivity_vs_T": "Required (1.5-300 K)",
+      "magnetic_susceptibility": "Required (Meissner effect)",
+      "heat_capacity": "Required (BCS jump)",
+      "isotope_effect": "Required (H/D substitution)",
+      "pressure_dependence": "Required (dTc/dP)"
+    },
+    "expected_results": {
+      "Tc_K": 700.1703860626905,
+      "lambda_theory": 1.982031383073054,
+      "omega_log_theory": 3665.3439787254356
+    },
+    "priority": "HIGH",
+    "estimated_cost_USD": 51941.24931051743,
+    "timeline_months": 17.53449996470834
+  }
+}

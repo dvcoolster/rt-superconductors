@@ -1,0 +1,9 @@
+Gamma-point phonon calculation for B3BeCH4
+&INPUTPH
+    tr2_ph = 1.0d-14,
+    prefix = 'B3BeCH4',
+    outdir = './tmp/',
+    alpha_mix(1) = 0.7,
+    fildyn = 'B3BeCH4.dyn',
+/
+0.0 0.0 0.0

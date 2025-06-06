@@ -1,0 +1,37 @@
+--
+&INPUTEPW
+    prefix = 'B2BeC3H5',
+    outdir = './tmp/',
+    
+    elph = .true.,
+    kmaps = .false.,
+    epbwrite = .true.,
+    epbread = .false.,
+    
+    epwwrite = .true.,
+    epwread = .false.,
+    
+    wannierize = .true.,
+    num_iter = 1000,
+    dis_win_max = 15.0,
+    dis_win_min = -3.0,
+    dis_froz_min = -3.0,
+    dis_froz_max = 10.0,
+    
+    proj(1) = 's',
+    proj(2) = 'p',
+    
+    iverbosity = 2,
+    
+    eps_acustic = 2.0,
+    ephwrite = .true.,
+    
+    fsthick = 0.4,
+    degaussw = 0.05,
+    
+    nkf1 = 8, nkf2 = 8, nkf3 = 8,
+    nqf1 = 4, nqf2 = 4, nqf3 = 4,
+    
+    nk1 = 4, nk2 = 4, nk3 = 4,
+    nq1 = 4, nq2 = 4, nq3 = 4,
+/

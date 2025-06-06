@@ -1,0 +1,9 @@
+Gamma-point phonon calculation for BBeC2H4
+&INPUTPH
+    tr2_ph = 1.0d-14,
+    prefix = 'BBeC2H4',
+    outdir = './tmp/',
+    alpha_mix(1) = 0.7,
+    fildyn = 'BBeC2H4.dyn',
+/
+0.0 0.0 0.0

@@ -1,0 +1,4 @@
+&INPUT
+    fildyn = 'B3BeH4.dyn',
+    flfrc = 'B3BeH4.fc',
+/

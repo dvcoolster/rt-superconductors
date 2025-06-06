@@ -1,0 +1,52 @@
+&CONTROL
+    calculation = 'scf',
+    restart_mode = 'from_scratch',
+    prefix = 'Be3C3H6',
+    outdir = './tmp/',
+    pseudo_dir = '../../../pseudos/',
+    verbosity = 'high',
+    tprnfor = .true.,
+    tstress = .true.,
+/
+
+&SYSTEM
+    ibrav = 1,
+    A = 19.423920,
+    nat = 12,
+    ntyp = 3,
+    ecutwfc = 80,
+    ecutrho = 640,
+    occupations = 'smearing',
+    smearing = 'marzari-vanderbilt',
+    degauss = 0.02,
+    input_dft = 'PBE',
+/
+
+&ELECTRONS
+    diagonalization = 'david',
+    mixing_mode = 'plain',
+    mixing_beta = 0.7,
+    conv_thr = 1.0d-8,
+    electron_maxstep = 200,
+/
+
+ATOMIC_SPECIES
+Be     9.010 Be.pbe-n-rrkjus_psl.1.0.0.UPF
+H      1.008 H.pbe-rrkjus_psl.1.0.0.UPF
+C     12.010 C.pbe-n-rrkjus_psl.1.0.0.UPF
+
+ATOMIC_POSITIONS angstrom
+Be      8.000000     8.000000     8.000000
+Be     10.688000     8.000000     8.000000
+Be      9.344920    10.328407     8.000000
+C      11.423920    10.328407     9.039500
+C      10.576920    11.795454     9.886500
+C       9.729920    10.328407    10.733500
+H      10.983920    10.328407    11.360500
+H      11.390920    11.033352    11.767500
+H      10.983920    11.738296    12.174500
+H      10.169920    11.738296    12.581500
+H       9.762920    11.033352    12.988500
+H      10.169920    10.328407    13.395500
+
+K_POINTS gamma
