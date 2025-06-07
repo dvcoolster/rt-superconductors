@@ -1,0 +1,240 @@
+{
+  "formula": "B2C12N2H10",
+  "total_atoms": 26,
+  "atoms": [
+    {
+      "index": 0,
+      "symbol": "C",
+      "coordinates": [
+        0.0,
+        1.4,
+        0.0
+      ]
+    },
+    {
+      "index": 1,
+      "symbol": "C",
+      "coordinates": [
+        1.212,
+        0.7,
+        0.0
+      ]
+    },
+    {
+      "index": 2,
+      "symbol": "N",
+      "coordinates": [
+        1.212,
+        -0.7,
+        0.0
+      ]
+    },
+    {
+      "index": 3,
+      "symbol": "C",
+      "coordinates": [
+        0.0,
+        -1.4,
+        0.0
+      ]
+    },
+    {
+      "index": 4,
+      "symbol": "C",
+      "coordinates": [
+        -1.212,
+        -0.7,
+        0.6
+      ]
+    },
+    {
+      "index": 5,
+      "symbol": "C",
+      "coordinates": [
+        -1.212,
+        0.7,
+        0.6
+      ]
+    },
+    {
+      "index": 6,
+      "symbol": "C",
+      "coordinates": [
+        -2.424,
+        1.4,
+        0.6
+      ]
+    },
+    {
+      "index": 7,
+      "symbol": "C",
+      "coordinates": [
+        -3.636,
+        0.7,
+        0.6
+      ]
+    },
+    {
+      "index": 8,
+      "symbol": "N",
+      "coordinates": [
+        -3.636,
+        -0.7,
+        0.6
+      ]
+    },
+    {
+      "index": 9,
+      "symbol": "C",
+      "coordinates": [
+        -2.424,
+        -1.4,
+        0.6
+      ]
+    },
+    {
+      "index": 10,
+      "symbol": "C",
+      "coordinates": [
+        2.424,
+        1.4,
+        0.0
+      ]
+    },
+    {
+      "index": 11,
+      "symbol": "C",
+      "coordinates": [
+        3.636,
+        0.7,
+        0.0
+      ]
+    },
+    {
+      "index": 12,
+      "symbol": "C",
+      "coordinates": [
+        3.636,
+        -0.7,
+        0.0
+      ]
+    },
+    {
+      "index": 13,
+      "symbol": "C",
+      "coordinates": [
+        2.424,
+        -1.4,
+        0.0
+      ]
+    },
+    {
+      "index": 14,
+      "symbol": "H",
+      "coordinates": [
+        0.0,
+        2.48,
+        0.0
+      ]
+    },
+    {
+      "index": 15,
+      "symbol": "H",
+      "coordinates": [
+        2.136,
+        1.24,
+        0.0
+      ]
+    },
+    {
+      "index": 16,
+      "symbol": "H",
+      "coordinates": [
+        2.136,
+        -1.24,
+        0.0
+      ]
+    },
+    {
+      "index": 17,
+      "symbol": "H",
+      "coordinates": [
+        1.9,
+        -2.48,
+        0.0
+      ]
+    },
+    {
+      "index": 18,
+      "symbol": "H",
+      "coordinates": [
+        -2.136,
+        -1.24,
+        0.6
+      ]
+    },
+    {
+      "index": 19,
+      "symbol": "H",
+      "coordinates": [
+        -2.136,
+        1.24,
+        0.6
+      ]
+    },
+    {
+      "index": 20,
+      "symbol": "H",
+      "coordinates": [
+        -4.7,
+        1.24,
+        0.6
+      ]
+    },
+    {
+      "index": 21,
+      "symbol": "H",
+      "coordinates": [
+        -4.3,
+        -1.24,
+        0.6
+      ]
+    },
+    {
+      "index": 22,
+      "symbol": "B",
+      "coordinates": [
+        0.0,
+        2.8,
+        0.0
+      ]
+    },
+    {
+      "index": 23,
+      "symbol": "B",
+      "coordinates": [
+        -2.424,
+        2.8,
+        0.6
+      ]
+    },
+    {
+      "index": 24,
+      "symbol": "H",
+      "coordinates": [
+        0.0,
+        3.88,
+        0.0
+      ]
+    },
+    {
+      "index": 25,
+      "symbol": "H",
+      "coordinates": [
+        -2.424,
+        3.88,
+        0.6
+      ]
+    }
+  ]
+}
